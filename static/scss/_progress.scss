@@ -1,0 +1,13 @@
+
+// 
+// Progress
+//
+
+.progress {
+  height: 10px;
+  background: lighten($dark, 4%);
+}
+
+.progress-bar {
+  background-color: $primary;
+}

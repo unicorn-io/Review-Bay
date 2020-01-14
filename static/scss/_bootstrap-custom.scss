@@ -1,0 +1,196 @@
+/* ==============
+  Bootstrap-custom
+===================*/
+
+//Dropdown
+.dropdown-menu {
+  padding: 4px 0;
+  font-size: $base-font;
+  box-shadow: $shadow;
+  background-color: lighten($dark, 2%);
+  border-color: $dark;
+  margin: 0;
+  .dropdown-divider{
+    border-color: rgba($white, 0.07);
+  }
+}
+.dropdown-item {
+  background-color: lighten($dark, 2%);
+  padding: .55rem 1.5rem;
+  color: $gray-400;
+  
+  &:focus, &:active, &:hover {
+    background-color: lighten($dark, 4%);
+    color: $white;
+  }
+}
+
+.dropdown-item.active, .dropdown-item:active {
+  background-color: lighten($dark, 4%);
+  color: $white;
+}
+
+.breadcrumb>li+li:before {
+  padding: 0 5px;
+  color: $muted;
+  content: "\f105" !important;
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+}
+
+// blockquote
+
+.blockquote {
+  padding: 10px 20px;
+  margin-bottom: 20px;
+  border-left: 4px solid lighten($dark, 4%);
+}
+
+.blockquote-reverse {
+  border-left: 0;
+  border-right: 4px solid lighten($dark, 4%);
+  text-align: right;
+}
+
+// hr
+
+hr{
+  border-color: rgba($white, 0.1);
+}
+
+//Background color
+.bg-primary {
+  background-color: $primary !important;
+}
+
+.bg-success {
+  background-color: $success !important;
+}
+
+.bg-info {
+  background-color: $info !important;
+}
+
+.bg-warning {
+  background-color: $warning !important;
+}
+
+.bg-danger {
+  background-color: $danger !important;
+}
+
+.bg-muted {
+  background-color: $muted !important;
+}
+
+.bg-white {
+  background-color: $white !important;
+}
+.bg-dark{
+  background-color: darken($dark, 4%) !important;
+}
+
+//Text Color
+.text-white {
+  color: $white !important;
+}
+
+.text-danger {
+  color: $danger !important;
+}
+
+.text-muted {
+  color: $muted !important;
+}
+
+.text-primary {
+  color: $primary !important;
+}
+
+.text-warning {
+  color: $warning !important;
+}
+
+.text-success {
+  color: $success !important;
+}
+
+.text-info {
+  color: $info !important;
+}
+
+.text-dark {
+  color: darken($dark, 4%) !important;
+}
+
+
+//Badge
+
+.badge {
+  font-weight: 500;
+}
+
+
+.badge-primary {
+  background-color: $primary;
+}
+
+.badge-success {
+  background-color: $success;
+}
+
+.badge-info {
+  background-color: $info;
+}
+
+.badge-warning {
+  background-color: $warning;
+  color: $white;
+}
+
+.badge-danger {
+  background-color: $danger;
+}
+
+.badge-dark {
+  background-color:  darken($dark, 4%);
+}
+
+// typography
+
+dt {
+  font-weight: 500;
+}
+
+// images
+
+.img-thumbnail{
+  background: lighten($dark, 4%);
+  border-color: lighten($dark, 4%);
+}
+
+// spinner
+
+.spinner-border, .spinner-grow {
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+// checkbox
+
+.custom-control-input{
+
+  &:checked~.custom-control-label{
+    &:before {
+      border-color: $primary;
+      background-color: $primary;
+    }
+  }
+}
+
+.custom-control-label{
+  &:before{
+    background: lighten($dark, 4%);
+    border-color: lighten($dark, 6%);
+  }
+}

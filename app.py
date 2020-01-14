@@ -6,9 +6,9 @@ app = Flask(__name__)
 def index():
     return render_template("index.html")
 
-@app.route("/submit")
+@app.route("/redirect", methods=['POST'])
 def dash_page():
-    pass
+    return render_template("dash_page.html")
 
 @app.route("/about")
 def about():
