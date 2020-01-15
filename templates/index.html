@@ -32,12 +32,6 @@
 <!-- Modernizer for Portfolio -->
 <script src="./static/js/modernizer.js">
 </script>
-
-<!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-
 </head>
 
 <body class="host_version">
@@ -59,20 +53,25 @@
                     <!-- Tab panes -->
                     <div class="tab-content">
                         <div class="tab-pane active" id="Login">
-                            <form role="form" class="form-horizontal">
+                            {% with messages = get_flashed_messages() %} {% if messages %}
+                            <div class="notification is-danger">
+                                {{ messages[0] }}
+                            </div>
+                            {% endif %} {% endwith %}
+                            <form action="/login" method="POST" role="form" class="form-horizontal">
                                 <div class="form-group">
                                     <div class="col-sm-12">
-                                        <input class="form-control" id="email1" placeholder="Name" type="text">
+                                        <input class="form-control" id="email1" placeholder="Email" type="text" name="email1">
                                     </div>
                                 </div>
                                 <div class="form-group">
                                     <div class="col-sm-12">
-                                        <input class="form-control" id="exampleInputPassword1" placeholder="Email" type="email">
+                                        <input class="form-control" id="exampleInputPassword1" placeholder="Password" type="password" name="password">
                                     </div>
                                 </div>
                                 <div class="row">
                                     <div class="col-sm-10">
-                                        <button type="submit" class="btn btn-light btn-radius btn-brd grd1"><a href="/"></a>
+                                        <button type="submit" class="btn btn-light btn-radius btn-brd grd1">
 										Submit
 									</button>
                                         <a class="for-pwd" href="javascript:;">Forgot your password?</a>
@@ -81,6 +80,11 @@
                             </form>
                         </div>
                         <div class="tab-pane" id="Registration">
+                            {% with messages = get_flashed_messages() %} {% if messages %}
+                            <div class="notification is-danger">
+                                {{ messages[0] }}. Go to <a href="{{ url_for('auth.login_post') }}">login page</a>.
+                            </div>
+                            {% endif %} {% endwith %}
                             <form action='/signup' method="POST" role="form" class="form-horizontal">
                                 <div class="form-group">
                                     <div class="col-sm-12">
@@ -136,7 +140,7 @@
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <div class="container-fluid">
                 <a class="navbar-brand" href="/">
-                    <img src="./static/images/Screenshot_20200114-191456__02.jpeg" alt="" />
+                    <img src="./static/images/Screenshot_20200114-191456__02.jpeg" alt="" style="width:75%;height:75%;" />
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbars-host" aria-controls="navbars-rs-food" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="icon-bar"></span>
@@ -175,18 +179,16 @@
                                     <div class="big-tagline">
                                         <h2><strong>Feedback Management</strong> System</h2>
                                         <p class="lead">Review Bay is a customer review management platform that uses sentimental analysis to provide the insights for your data.</p>
-                                        <!---<a href="#" class="hover-btn-new"><span>Contact Us</span></a>
-											&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-											<a href="#" class="hover-btn-new"><span>Know More</span></a>-->
+
                                     </div>
                                 </div>
                             </div>
-                            <!-- end row -->
+
                         </div>
-                        <!-- end container -->
+
                     </div>
                 </div>
-                <!-- end section -->
+
             </div>
             <div class="carousel-item">
                 <div id="home" class="first-section" style="background-image:url('images/wallaper5.jpg');">
@@ -197,18 +199,16 @@
                                     <div class="big-tagline">
                                         <h2 data-animation="animated zoomInRight">Get the review of your products <strong>Statiscally</strong></h2>
                                         <p class="lead" data-animation="animated fadeInLeft">With Review Bay feedback system you can analyze your product reviews in graphical manner.</p>
-                                        <!---<a href="#" class="hover-btn-new"><span>Contact Us</span></a>
-											&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-											<a href="#" class="hover-btn-new"><span>Read More</span></a>-->
+
                                     </div>
                                 </div>
                             </div>
-                            <!-- end row -->
+
                         </div>
-                        <!-- end container -->
+
                     </div>
                 </div>
-                <!-- end section -->
+
             </div>
             <div class="carousel-item">
                 <div id="home" class="first-section" style="background-image:url('images/wallpaper6.jpg');">
