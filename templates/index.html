@@ -81,38 +81,39 @@
                             </form>
                         </div>
                         <div class="tab-pane" id="Registration">
-                            <form role="form" class="form-horizontal">
+                            <form action='/signup' method="POST" role="form" class="form-horizontal">
                                 <div class="form-group">
                                     <div class="col-sm-12">
-                                        <input class="form-control" placeholder="Name" type="text">
+                                        <input class="form-control" placeholder="Name" type="text" name='name' required>
                                     </div>
                                 </div>
                                 <div class="form-group">
                                     <div class="col-sm-12">
-                                        <input class="form-control" id="email" placeholder="Email" type="email">
+                                        <input class="form-control" id="email" placeholder="Email" name='email' type="email" required>
                                     </div>
                                 </div>
                                 <div class="form-group">
                                     <div class="col-sm-12">
-                                        <input class="form-control" id="mobile" placeholder="Mobile" type="email">
+                                        <input class="form-control" id="mobile" placeholder="Mobile" type="number" name='mob'>
                                     </div>
                                 </div>
                                 <div class="form-group">
                                     <div class="col-sm-12">
-                                        <input class="form-control" id="password" placeholder="Password" type="password">
+                                        <input class="form-control" id="password" placeholder="Password" type="password" required name='pwd'>
                                     </div>
                                 </div>
                                 <div class="row">
                                     <div class="col-sm-10">
-                                        <button type="submit" class="btn btn-light btn-radius btn-brd grd1"><a href="/"></a>
+                                        <button type="submit" class="btn btn-light btn-radius btn-brd grd1">
 										Submit
-									</button>
-                                        <button type="submit" class="btn btn-light btn-radius btn-brd grd1"><a href="/"></a>
+                                    </button>
+                            </form>
+                            <button class="btn btn-light btn-radius btn-brd grd1"><a href="/"></a>
 										Cancel
 									</button>
-                                    </div>
-                                </div>
-                            </form>
+                            </div>
+                            </div>
+
                         </div>
                     </div>
                 </div>
@@ -296,7 +297,7 @@
 
 
     <form action="/redirect" method="post">
-        <button type="submit"  style="margin-left:auto;margin-right:auto;display:block;margin-top:2%;margin-bottom:0%">
+        <button type="submit" style="margin-left:auto;margin-right:auto;display:block;margin-top:2%;margin-bottom:0%">
                 Submit.
              </button>
     </form>
