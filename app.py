@@ -1,7 +1,11 @@
 from flask import Flask, render_template
 from flask import *
 
+import auth
 app = Flask(__name__)
+
+app.config['SECRET_KEY'] = '9OLWxND4o83j4K4iuopO'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///db.sqlite'
 
 
 
