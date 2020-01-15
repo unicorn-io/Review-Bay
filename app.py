@@ -3,7 +3,7 @@ from flask import *
 
 app = Flask(__name__)
 
-b
+
 
 @app.route('/')
 def index():
@@ -28,5 +28,5 @@ def file_load():
 
 
 if __name__== "__main__":
-    app.run(debug=True)
+    app.run()
 
