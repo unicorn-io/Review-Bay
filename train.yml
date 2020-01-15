@@ -1,0 +1,15 @@
+categories:
+-userhelp
+-info
+-site
+-navigation 
+conversations:
+- - What is this site ?
+  - This site is dedicated for the sentiment analysis for the customer reviews.
+- - Where is the login page ?
+  - It is located in the top right part of the page. Rememeber to see register before you access this site.
+- - Who made you?
+  - I have been made by a team of engineers at M.I.T Manipal.
+- - What is the purpose for this website?
+  - The purpose of this website is to make customer review using sentiment analysis and give the analysis on products and resources.
+       
