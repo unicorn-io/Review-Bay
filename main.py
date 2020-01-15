@@ -5,6 +5,7 @@ from . import db
 from flask import render_template
 from flask import redirect
 from flask import request
+from flask_login import login_required, current_user
 
 main = Blueprint('main', __name__)
 
@@ -12,9 +13,10 @@ main = Blueprint('main', __name__)
 def index():
     return render_template("index.html")
 
-@main.route("/redirect", methods=['POST'])
-def dash_page():
-    return render_template("dash_page.html")
+@main.route("/redirect", methods=['GET','POST'])
+@login_required
+def redirect():
+    return render_template("dash_page.html", name=current_user.name)
 
 @main.route("/about")
 def about():
