@@ -1,16 +1,9 @@
 from flask import Flask, render_template
 from flask import *
-from chatterbot import ChatBot
-from chatterbot.trainers import ChatterBotCorpusTrainer
-from chatterbot.trainers import ListTrainer
 
 app = Flask(__name__)
 
-bot = ChatBot("Ravi")
-trainer= ListTrainer(bot)
-trainer.train('chatterbox.corpus.english')
-trainer.train('chatterbox.corpus.hindi')
-trainer.train('./train.yml')
+b
 
 @app.route('/')
 def index():
