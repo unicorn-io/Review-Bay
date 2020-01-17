@@ -64,7 +64,7 @@
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item active"><a class="nav-link" href="/">Home</a></li>
                         <li class="nav-item"><a class="nav-link" href="/about">About Us</a></li>
-                        <li class="nav-item"><a class="nav-link">{{ name }}</a></li>
+                        <li class="nav-item"><a class="nav-link" href="/logout">Logout</a></li>
                     </ul>
 
                 </div>
@@ -86,10 +86,10 @@
                     <div class="dtab">
                         <div class="container">
                             <div class="row">
-                                <div class="col-md-12 col-sm-12 text-right">
+                                <div class="col-md-12 col-sm-12 text-center">
                                     <div class="big-tagline">
-                                        <h2><strong>Feedback Management</strong> System</h2>
-                                        <p class="lead">Review Bay is a customer review management platform that uses sentimental analysis to provide the insights for your data.</p>
+                                        <h2><strong>Upload</strong> Files</h2>
+                                        <p class="lead">You are one step closer to analysis.</p>
 
                                     </div>
                                 </div>
@@ -160,8 +160,13 @@
 
     <div class="col-lg-12">
         <div class="customwidget text-center">
-            <h1>Get Started</h1>
-            <p>Review Bay is a feedback management system gathers customer feedback from multiple sources and cosolidates insights to classify the reviews and comments into viable categories. </p>
+            <h1>
+                <font color="white">Start by uploading CSV</font>
+            </h1>
+
+            <font color="white">
+                <p>You are one step closer to begin the high order Sentimental analysis.</p>
+            </font>
             <!---<p>Pursuing high quality standards, my greatest efforts are focused on producing semantic, SEO-friendly, valid and clean code. In order to stay effective and relevant in this constantly evolving sphere I always try to be in touch with the latest news and recent approaches in programming.</p>-->
             <!---<ul class="list-inline">
                             <li><i class="fa fa-check"></i> 20k Domains Sold in 2017</li>
@@ -195,7 +200,7 @@
                                 <button type="submit" class="input-group-text" id="inputGroupFileAddon01">Upload</button>
                             </div>
                             <div class="custom-file">
-                                <input type="file" class="custom-file-input" id="inputGroupFile01" aria-describedby="inputGroupFileAddon01" name="file">
+                                <input type="file" class="custom-file-input" id="inputGroupFile01" aria-describedby="inputGroupFileAddon01" name="filey">
                                 <label class="custom-file-label" for="inputGroupFile01">Choose file. CSV files only</label>
                             </div>
 
@@ -207,11 +212,6 @@
     <hr>
 
 
-    <form action="/redirect" method="post">
-        <button type="submit" style="margin-left:auto;margin-right:auto;display:block;margin-top:2%;margin-bottom:0%">
-                Submit.
-             </button>
-    </form>
     <!---      <button type="submit" id="submitbutton"> Submit </button>-->
 
 
