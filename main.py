@@ -23,10 +23,11 @@ def redirected():
 @main.route("/dashboard", methods=['GET', 'POST'])
 @login_required
 def dash():
-    return render_template("dash_page.html", num_products=get_prod_count(),
-     num_good=get_good_count(),good_percent=get_good_percent(),
-      num_neutral=get_neutral_count(), neutral_percent=get_neutral_percent(),
-        num_bad=get_bad_count(), bad_percent=get_bad_percent())
+    data = pd.read_csv('./SIH/a.csv')
+    return render_template("dash_page.html", num_products=get_prod_count(data),
+     num_good=get_good_count(data),good_percent=get_good_percent(data),
+      num_neutral=get_neutral_count(data), neutral_percent=get_neutral_percent(data),
+        num_bad=get_bad_count(data), bad_percent=get_bad_percent(data))
 
 @main.route("/dynamicView")
 @login_required
@@ -72,7 +73,7 @@ def good_csv():
             continue
     generate_table(good_list)
     f = open('./SIH/table.txt', 'r')
-    return render_template('dynamic_view.html',   table_data=f.read())
+    return render_template('dynamic_view.html',   table_data=f.read(), len_reviews=len(good_list))
 
 @main.route("/badPreds")
 @login_required
@@ -87,7 +88,7 @@ def bad_csv():
             continue
     generate_table(listo)
     f = open('./SIH/table.txt', 'r')
-    return render_template('dynamic_view.html',   table_data=f.read())
+    return render_template('dynamic_view.html',   table_data=f.read(), len_reviews=len(listo))
 
 @main.route("/neutralPreds")
 @login_required
@@ -102,24 +103,25 @@ def neutral_csv():
             continue
     generate_table(listo)
     f = open('./SIH/table.txt', 'r')
-    return render_template('dynamic_view.html',   table_data=f.read())
+    return render_template('dynamic_view.html',   table_data=f.read(), len_reviews=len(listo))
 
 @main.route("/searchQuery", methods= ['POST'])
 @login_required
 def query_csv():
-    query = request.form['search_query']
+    query = request.form['search_query'].split(" ")
     print(query)
     data = pd.read_csv('./SIH/a.csv')
     lis= data.values.tolist()
     listo = []
     for l in lis:
         try:
-            
-            if (l[0].lower() == query.lower()):
+            key = [a.lower() for a in l[1].split(" ")]
+            key = [a for a in query if a in key]
+            if (l[0].lower() == query[0].lower() or len(key) > 0):
               listo.append(l)
               
         except:
             continue
     generate_table(listo)
     foo = open('./SIH/table.txt', 'r')
-    return render_template('dynamic_view.html', table_data=foo.read())    
+    return render_template('dynamic_view.html', table_data=foo.read(), len_reviews=len(listo))    

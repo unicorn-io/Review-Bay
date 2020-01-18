@@ -11,7 +11,7 @@ from flask_login import login_user, logout_user, login_required
 from .models import User
 from werkzeug.security import generate_password_hash
 from werkzeug.security import check_password_hash
-from .mail import Mail
+#from .mail import Mail
 
 
 auth = Blueprint('auth', __name__)
@@ -51,7 +51,7 @@ def signup_post():
     # add the new user to the database
     db.session.add(new_user)
     db.session.commit()
-    Mail(email, name)
+    #Mail(email, name)
 
     return redirect(url_for('auth.login_post'))
 
