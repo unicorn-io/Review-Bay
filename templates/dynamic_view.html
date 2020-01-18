@@ -59,11 +59,11 @@
                 <ul class="navbar-right list-inline float-right mb-0">
 
                     <li class="dropdown notification-list list-inline-item d-none d-md-inline-block">
-                        <form role="search" class="app-search">
+                        <form action='/searchQuery' method='POST' role="search" class="app-search">
                             <div class="form-group mb-0">
 
 
-                                <input type="text" class="form-control" placeholder="Search..">
+                                <input type="text" class="form-control" placeholder="Search.." name="search_query">
 
                                 <button type="submit"><i class="fa fa-search"></i></button>
                         </form>
@@ -129,7 +129,7 @@
                                 <ol class="breadcrumb">
                                     <li class="breadcrumb-item active">Shows Individual And Collective Predictions</li>
                                 </ol>
-                                <h3 class="page-title">Current Query/Product: {{ current_query }}</h3>
+                                <h3 class="page-title">Current Query/Product ------></h3>
 
                             </div>
 
@@ -154,7 +154,10 @@
                                     </tr>
                                 </thead>
                                 <tbody>
-                                    {% extends "table.html" %}
+
+
+                                    {{ table_data|safe }}
+
                                 </tbody>
                             </table>
                         </div>

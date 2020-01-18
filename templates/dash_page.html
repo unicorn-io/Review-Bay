@@ -43,11 +43,11 @@
                 <ul class="navbar-right list-inline float-right mb-0">
 
                     <li class="dropdown notification-list list-inline-item d-none d-md-inline-block">
-                        <form role="search" method="POST" class="app-search">
+                        <form action='/searchQuery' method='POST' role="search" class="app-search">
                             <div class="form-group mb-0">
 
 
-                                <input type="text" class="form-control" placeholder="Search.." name="single_keyword">
+                                <input type="text" class="form-control" placeholder="Search.." name="search_query">
 
                                 <button type="submit"><i class="fa fa-search"></i></button>
                         </form>
@@ -163,7 +163,7 @@
                                     </div>
                                     <div class="pt-2">
                                         <div class="float-right">
-                                            <a href="#" class="text-white-50"><i class="mdi mdi-arrow-right h5"></i></a>
+                                            <a href="/goodPreds" class="text-white-50"><i class="mdi mdi-arrow-right h5"></i></a>
                                         </div>
 
                                         <p class="text-white-50 mb-0">Precisely Predicted</p>
@@ -186,7 +186,7 @@
                                     </div>
                                     <div class="pt-2">
                                         <div class="float-right">
-                                            <a href="#" class="text-white-50"><i class="mdi mdi-arrow-right h5"></i></a>
+                                            <a href="/neutralPreds" class="text-white-50"><i class="mdi mdi-arrow-right h5"></i></a>
                                         </div>
 
                                         <p class="text-white-50 mb-0">Precisely Predicted</p>
@@ -209,7 +209,7 @@
                                     </div>
                                     <div class="pt-2">
                                         <div class="float-right">
-                                            <a href="#" class="text-white-50"><i class="mdi mdi-arrow-right h5"></i></a>
+                                            <a href="/badPreds" class="text-white-50"><i class="mdi mdi-arrow-right h5"></i></a>
                                         </div>
 
                                         <p class="text-white-50 mb-0">Precisely Predicted</p>

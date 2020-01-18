@@ -1,5 +1,3 @@
-# main.py
-
 from flask import Blueprint
 from . import db
 from flask import render_template
@@ -8,6 +6,8 @@ from flask import request
 from flask_login import login_required, current_user
 from flask import send_file
 from .analyse import *
+from .row_gen import generate_table, get_list
+import pandas as pd
 
 main = Blueprint('main', __name__)
 
@@ -31,7 +31,12 @@ def dash():
 @main.route("/dynamicView")
 @login_required
 def dyn_view():
-    return render_template('dynamic_view.html')
+    data = pd.read_csv('a.csv')
+    listo = data.values.tolist()
+    generate_table(listo)
+    foo = open('./SIH/table.txt', 'r')
+    return render_template('dynamic_view.html', table_data=foo.read())
+
 
 @main.route("/about")
 def about():
@@ -53,3 +58,68 @@ def file_load():
 def file_download():
     return send_file('./a.csv', as_attachment=True)
     
+
+@main.route("/goodPreds")
+@login_required
+def good_csv():
+    good_list = []
+    lis = get_list()
+    for l in lis:
+        try:
+            if (l[3] == '1'):
+                good_list.append(l)
+        except:
+            continue
+    generate_table(good_list)
+    f = open('./SIH/table.txt', 'r')
+    return render_template('dynamic_view.html',   table_data=f.read())
+
+@main.route("/badPreds")
+@login_required
+def bad_csv():
+    listo = []
+    lis = get_list()
+    for l in lis:
+        try:
+            if (l[4] == '1'):
+                listo.append(l)
+        except:
+            continue
+    generate_table(listo)
+    f = open('./SIH/table.txt', 'r')
+    return render_template('dynamic_view.html',   table_data=f.read())
+
+@main.route("/neutralPreds")
+@login_required
+def neutral_csv():
+    listo = []
+    lis = get_list()
+    for l in lis:
+        try:
+            if (l[5] == '1'):
+                listo.append(l)
+        except:
+            continue
+    generate_table(listo)
+    f = open('./SIH/table.txt', 'r')
+    return render_template('dynamic_view.html',   table_data=f.read())
+
+@main.route("/searchQuery", methods= ['POST'])
+@login_required
+def query_csv():
+    query = request.form['search_query']
+    print(query)
+    data = pd.read_csv('./SIH/a.csv')
+    lis= data.values.tolist()
+    listo = []
+    for l in lis:
+        try:
+            
+            if (l[0].lower() == query.lower()):
+              listo.append(l)
+              
+        except:
+            continue
+    generate_table(listo)
+    foo = open('./SIH/table.txt', 'r')
+    return render_template('dynamic_view.html', table_data=foo.read())    
