@@ -3,11 +3,17 @@ from . import db
 from flask import render_template
 from flask import redirect
 from flask import request
+from flask import Response
 from flask_login import login_required, current_user
 from flask import send_file
 from .analyse import *
 from .row_gen import generate_table, get_list
 import pandas as pd
+import io
+import random
+from matplotlib.backends.backend_agg import FigureCanvasAgg as FigureCanvas
+from matplotlib.figure import Figure
+#from .sent_model import gen_file
 
 main = Blueprint('main', __name__)
 
@@ -23,6 +29,7 @@ def redirected():
 @main.route("/dashboard", methods=['GET', 'POST'])
 @login_required
 def dash():
+    #gen_file('./data_infi.csv')
     data = pd.read_csv('./SIH/a.csv')
     return render_template("dash_page.html", num_products=get_prod_count(data),
      num_good=get_good_count(data),good_percent=get_good_percent(data),
@@ -49,7 +56,7 @@ def file_load():
     try:
         f = request.files['filey']
         if (f.filename == ''): return redirect('/redirect')
-        f.save(f.filename)
+        f.save('data_infi.csv')
         
     except:
         return redirect('/')
@@ -125,3 +132,18 @@ def query_csv():
     generate_table(listo)
     foo = open('./SIH/table.txt', 'r')
     return render_template('dynamic_view.html', table_data=foo.read(), len_reviews=len(listo))    
+
+@main.route('/plot.png')
+def plot_png():
+    fig = create_figure()
+    output = io.BytesIO()
+    FigureCanvas(fig).print_png(output)
+    return Response(output.getvalue(), mimetype='image/png')
+
+def create_figure():
+    fig = Figure()
+    axis = fig.add_subplot(1, 1, 1)
+    xs = range(100)
+    ys = [random.randint(1, 50) for x in xs]
+    axis.plot(xs, ys)
+    return fig
