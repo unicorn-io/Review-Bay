@@ -1,0 +1,1932 @@
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqVGZNvQMlgsOJE6eUY</td>
+                <td class="column100 column2" data-column="column2">Amazon Kindle E-Reader 6" Wifi (8th Generation, 2016)</td>
+                <td class="column100 column3" data-column="column3">It does its job but I would buy one which the screen is brighter. There are times that it's difficult to read because screen is not too bright</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqVGZNvQMlgsOJE6eUY</td>
+                <td class="column100 column2" data-column="column2">Amazon Kindle E-Reader 6" Wifi (8th Generation, 2016)</td>
+                <td class="column100 column3" data-column="column3">The kindle is good to download apps for books catch up with reading</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqVGZNvQMlgsOJE6eUY</td>
+                <td class="column100 column2" data-column="column2">Amazon Kindle E-Reader 6" Wifi (8th Generation, 2016)</td>
+                <td class="column100 column3" data-column="column3">For me, the Kindle Black was not a good fit for me. There are times I read at night in bed when my husband is sleeping. This model doesn't have a back light so I'm unable to read at night without turning on a light and waking up my husband.So I returned and went for a Kindle Fire.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqVGZNvQMlgsOJE6eUY</td>
+                <td class="column100 column2" data-column="column2">Amazon Kindle E-Reader 6" Wifi (8th Generation, 2016)</td>
+                <td class="column100 column3" data-column="column3">it would not load my books proper. took a dozen tries erasing an dreregistering. screen too dark</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqVGZNvQMlgsOJE6eUY</td>
+                <td class="column100 column2" data-column="column2">Amazon Kindle E-Reader 6" Wifi (8th Generation, 2016)</td>
+                <td class="column100 column3" data-column="column3">This is a pretty cool little device. Im able to download books through wireless and read them later at my convenience. Only drawback is I wish it had more storage. But for the price, it works good.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqVGZNvQMlgsOJE6eUY</td>
+                <td class="column100 column2" data-column="column2">Amazon Kindle E-Reader 6" Wifi (8th Generation, 2016)</td>
+                <td class="column100 column3" data-column="column3">I love having real books, but these are great for travel and keeping your bookshelves lighter. I wish you could buy them with larger storage without having to buy the larger size pad. It also sucks that they are 4gig, but 1gig is taken up by the OS and advertising. Seriously? It reads PDFs and needs a 1 gig OS. Lame. The last thing I would change is being able to reverse the lettering so at night you could have white lettering and a black background, so it's less bright on the eyes.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AWFUWc8THh53nbDRF6YO</td>
+                <td class="column100 column2" data-column="column2">Amazon Echo Show Alexa-enabled Bluetooth Speaker with 7" Screen</td>
+                <td class="column100 column3" data-column="column3">Alexa may be new, but I would have thought some of the simple commands she would have been able to respond to already. For the amount Amazon charges, it should come with better instructions, including what specifically to download into one's device (iPhone, etc.) so as to make some apps ready to go. Amazon dropped the ball on this one.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AWFUWc8THh53nbDRF6YO</td>
+                <td class="column100 column2" data-column="column2">Amazon Echo Show Alexa-enabled Bluetooth Speaker with 7" Screen</td>
+                <td class="column100 column3" data-column="column3">I‚Äôve asked itquestions and answers were unknown and could not help me</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AWFUWc8THh53nbDRF6YO</td>
+                <td class="column100 column2" data-column="column2">Amazon Echo Show Alexa-enabled Bluetooth Speaker with 7" Screen</td>
+                <td class="column100 column3" data-column="column3">THE ECHO SHOW WORKS WELL, BUT AT THIS TIME IT CANNOT CONNECT TO YOUTUBE. MAYBE WHEN AMAZON WAKES UP THE CONNECTION WILL BE RETURNED.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AWFUWc8THh53nbDRF6YO</td>
+                <td class="column100 column2" data-column="column2">Amazon Echo Show Alexa-enabled Bluetooth Speaker with 7" Screen</td>
+                <td class="column100 column3" data-column="column3">Alexa show is ok same technology as a tablet except voice activated</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AWFUWc8THh53nbDRF6YO</td>
+                <td class="column100 column2" data-column="column2">Amazon Echo Show Alexa-enabled Bluetooth Speaker with 7" Screen</td>
+                <td class="column100 column3" data-column="column3">I like my Show, but i can't say i love it, for being the priciest piece of my collection of alexa devices, it has probably the worst microphone. Getting it to respond is frustrating at times, where i have no problem with a standard echo. besides this, it all works as advertised. I'd wait for the second generation, i'm sure they can work the kinks out.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AWFUWc8THh53nbDRF6YO</td>
+                <td class="column100 column2" data-column="column2">Amazon Echo Show Alexa-enabled Bluetooth Speaker with 7" Screen</td>
+                <td class="column100 column3" data-column="column3">Just an average Alexa option. Does show a few things on screen but still limited.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AWFUWc8THh53nbDRF6YO</td>
+                <td class="column100 column2" data-column="column2">Amazon Echo Show Alexa-enabled Bluetooth Speaker with 7" Screen</td>
+                <td class="column100 column3" data-column="column3">I got this to work with my Arlo Pro camera, and it works well. I am able to have my camera for driveway and front door come up on command. I hate that I cannot get my Samsung TV to come on with a verbal request. I guess I will have to buy the plug for it. This was very easy to set up. Downloaded the app, and plugged it in, viola it walks you through the setup.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AWFUWc8THh53nbDRF6YO</td>
+                <td class="column100 column2" data-column="column2">Amazon Echo Show Alexa-enabled Bluetooth Speaker with 7" Screen</td>
+                <td class="column100 column3" data-column="column3">Its a great product, but for the cost, the speakers are not what they should be, and the screen is too small. Choosing what is desplayed on the screen is something i still have not figired out. Hopefully software updates will fix the minor problem, and a second generation will hopefully fix the hardware downfalls. Voice recognition is also not as good as the eco dot. I am not recomending this product at this time because of the cost and poor performance.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AWFUWc8THh53nbDRF6YO</td>
+                <td class="column100 column2" data-column="column2">Amazon Echo Show Alexa-enabled Bluetooth Speaker with 7" Screen</td>
+                <td class="column100 column3" data-column="column3">I loved this thing until it was time to go to bed. Although it dims, the lowest setting is still very bright--like sleeping with a flashlight in your face. I hope they make fixes that will allow the screen to dim more. Also, not crazy about having a camera connected to the Internet on my nightstand. If you cover it up, the motion sensor then won't work. The sound is OK--not quite as good as the non-screen Echo--maybe because it's not omni-directional like the regular Echo. My enthusiasm for this device has subsided quite a bit because of these issues.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AWFUWc8THh53nbDRF6YO</td>
+                <td class="column100 column2" data-column="column2">Amazon Echo Show Alexa-enabled Bluetooth Speaker with 7" Screen</td>
+                <td class="column100 column3" data-column="column3">Requires too many components. Cameras, etc. stick with basics (in my opinion).</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AWFUWc8THh53nbDRF6YO</td>
+                <td class="column100 column2" data-column="column2">Amazon Echo Show Alexa-enabled Bluetooth Speaker with 7" Screen</td>
+                <td class="column100 column3" data-column="column3">The three star review is for the situation described here, not the quality of the unit. I ordered this online and picked it up in store. The package was very securely sealed the seals appeared to be factory. The Echo was wrapped in plastic and looked like it had never been out of the package. When I hooked it up, however, it said that the unit was registered to someone else. It wasn't a problem to get it registered to me and the unit works fine. I spoke to both Amazon and Target about this, and neither could tell me what happened. I was offered an exchange if I wished. I chose to keep the original unit, but I wanted to make others aware of the issue. I have one theory. Target has a buyer who purchased a lot of these for Target resale, and they are all registered to this person. I guess I'll never know. The Echo itself works fine and I'm very happy with it. After you hook it up, make sure to go to settings and download the latest updates. Then you should be good to go.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AWFUWc8THh53nbDRF6YO</td>
+                <td class="column100 column2" data-column="column2">Amazon Echo Show Alexa-enabled Bluetooth Speaker with 7" Screen</td>
+                <td class="column100 column3" data-column="column3">The device works well mechanically, however, the software needs a lot of work. Half of my commands are not understood and I have cameras linked up to it that‚Äôs rarely recognized.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AWFUWc8THh53nbDRF6YO</td>
+                <td class="column100 column2" data-column="column2">Amazon Echo Show Alexa-enabled Bluetooth Speaker with 7" Screen</td>
+                <td class="column100 column3" data-column="column3"> they can just drop in and I can do the same with the kids when away from the house. I made 2 more purchases immediately after to put them in my office and living room. I love the lyrics when music is playing and looking at the forecast on the fly. They are a must have for a modern home.</td>
+                <td class="column100 column4" data-column="column4">I bought 2 shows and I am loving them. Them video flash briefing are wonderful and personalized. I don't have to keep my phone on me 24/7 to keep in touch with my closest family members</td>
+                <td class="column100 column5" data-column="column5"> they can just drop in and I can do the same with the kids when away from the house. I made 2 more purchases immediately after to put them in my office and living room. I love the lyrics when music is playing and looking at the forecast on the fly. They are a must have for a modern home.</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AWFUWc8THh53nbDRF6YO</td>
+                <td class="column100 column2" data-column="column2">Amazon Echo Show Alexa-enabled Bluetooth Speaker with 7" Screen</td>
+                <td class="column100 column3" data-column="column3">It was a cool device but my main issue that it couldn‚Äôt play playlists the I had stored on the sonos app. It only played streaming services</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AWFUWc8THh53nbDRF6YO</td>
+                <td class="column100 column2" data-column="column2">Amazon Echo Show Alexa-enabled Bluetooth Speaker with 7" Screen</td>
+                <td class="column100 column3" data-column="column3">Only download was very slow and echo show didn‚Äôt make it worth having as a stand alone</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AWFUWc8THh53nbDRF6YO</td>
+                <td class="column100 column2" data-column="column2">Amazon Echo Show Alexa-enabled Bluetooth Speaker with 7" Screen</td>
+                <td class="column100 column3" data-column="column3">Great product but the only downside is that it did NOT work with my home security camera</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AWFUWc8THh53nbDRF6YO</td>
+                <td class="column100 column2" data-column="column2">Amazon Echo Show Alexa-enabled Bluetooth Speaker with 7" Screen</td>
+                <td class="column100 column3" data-column="column3">I'm disappointed. Sometimes gives doesn't understand</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AWFUWc8THh53nbDRF6YO</td>
+                <td class="column100 column2" data-column="column2">Amazon Echo Show Alexa-enabled Bluetooth Speaker with 7" Screen</td>
+                <td class="column100 column3" data-column="column3">The sound quality is good,Alexa responds to commands but their is room for improvement</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AWFUWc8THh53nbDRF6YO</td>
+                <td class="column100 column2" data-column="column2">Amazon Echo Show Alexa-enabled Bluetooth Speaker with 7" Screen</td>
+                <td class="column100 column3" data-column="column3">This item seems great on the ads, but it reality it can‚Äôt do nearly as much. To get it to do more you have to download ‚Äúskills‚Äù, some of which work well and others of which do not. Some are reviewed, but many are not. Connecting is often difficult and sometimes the password you use has to be the same as your Alexa device (which no body tells you). I‚Äôm sure with some practice this device will be fun and useful, but learning to use it and sorting through the skills is a pain.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AWFUWc8THh53nbDRF6YO</td>
+                <td class="column100 column2" data-column="column2">Amazon Echo Show Alexa-enabled Bluetooth Speaker with 7" Screen</td>
+                <td class="column100 column3" data-column="column3">Amazon show is pretty cool, It can help with things like cooking recipe, homework and other things. But it's restricted to only Amazon partner things. If Google comes out with something similar I would have definitely chosen that over the show. No YouTube.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AWK8z0pOIwln0LfXlSxH</td>
+                <td class="column100 column2" data-column="column2">Amazon Echo Show Alexa-enabled Bluetooth Speaker with 7" Screen</td>
+                <td class="column100 column3" data-column="column3">Requires too many components. Cameras, etc. stick with basics (in my opinion).</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AWK8z0pOIwln0LfXlSxH</td>
+                <td class="column100 column2" data-column="column2">Amazon Echo Show Alexa-enabled Bluetooth Speaker with 7" Screen</td>
+                <td class="column100 column3" data-column="column3">Just an average Alexa option. Does show a few things on screen but still limited.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AWMjT0WguC1rwyj_rFh3</td>
+                <td class="column100 column2" data-column="column2">Amazon - Echo Plus w/ Built-In Hub - Silver</td>
+                <td class="column100 column3" data-column="column3">I'm not a techie, but after days of trying to hook up, I gave up. I don't know if it was the Echo Plus or my carrier ATT Uverse causing the issue, but it would NOT connect. So, back to the store it went. Even with checking out blogs on the internet for assistance...none of it worked.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AWMjT0WguC1rwyj_rFh3</td>
+                <td class="column100 column2" data-column="column2">Amazon - Echo Plus w/ Built-In Hub - Silver</td>
+                <td class="column100 column3" data-column="column3">Took it out of the box and played with it for a while. Then I lost connection with it and now it no longer recognizes my phone #. Called Amazon they said they would work on the problem, no call back yet.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AWMjT0WguC1rwyj_rFh3</td>
+                <td class="column100 column2" data-column="column2">Amazon - Echo Plus w/ Built-In Hub - Silver</td>
+                <td class="column100 column3" data-column="column3">It is an ok device but I find Google home to be better and more promising in the future</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AWMjT0WguC1rwyj_rFh3</td>
+                <td class="column100 column2" data-column="column2">Amazon - Echo Plus w/ Built-In Hub - Silver</td>
+                <td class="column100 column3" data-column="column3"> even with the grandchildren throwing all kinds of crazy questions at it. Speaker quality is top of the line. Everyone that has tried it out at our house loves it.</td>
+                <td class="column100 column4" data-column="column4">It has very good voice recognition</td>
+                <td class="column100 column5" data-column="column5"> even with the grandchildren throwing all kinds of crazy questions at it. Speaker quality is top of the line. Everyone that has tried it out at our house loves it.</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AWMjT0WguC1rwyj_rFh3</td>
+                <td class="column100 column2" data-column="column2">Amazon - Echo Plus w/ Built-In Hub - Silver</td>
+                <td class="column100 column3" data-column="column3">It has very limited use without adding on expensive Apps or adding more wireless speakers. I am considering returning the merchandise</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AWMjT0WguC1rwyj_rFh3</td>
+                <td class="column100 column2" data-column="column2">Amazon - Echo Plus w/ Built-In Hub - Silver</td>
+                <td class="column100 column3" data-column="column3">It works well and sounds decent, but the hub portion of this is not as easy to use as Samsung.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AWMjT0WguC1rwyj_rFh3</td>
+                <td class="column100 column2" data-column="column2">Amazon - Echo Plus w/ Built-In Hub - Silver</td>
+                <td class="column100 column3" data-column="column3">Very helpful for someone with disabilities. Saves a lot steps.Responsive and fun to use.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AWMjT0WguC1rwyj_rFh3</td>
+                <td class="column100 column2" data-column="column2">Amazon - Echo Plus w/ Built-In Hub - Silver</td>
+                <td class="column100 column3" data-column="column3">When I tried to hook it up it wouldn't recognize my internet. I will have to contact best buy when I get home and have their guys come out to see if they can get it working</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AWMjT0WguC1rwyj_rFh3</td>
+                <td class="column100 column2" data-column="column2">Amazon - Echo Plus w/ Built-In Hub - Silver</td>
+                <td class="column100 column3" data-column="column3">like the Alexa but needs to be more interactive like suri.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AWMjT0WguC1rwyj_rFh3</td>
+                <td class="column100 column2" data-column="column2">Amazon - Echo Plus w/ Built-In Hub - Silver</td>
+                <td class="column100 column3" data-column="column3"> would recommend as a gift and although I like t I could definitely live without it</td>
+                <td class="column100 column4" data-column="column4">Nice addition to the home but not essential</td>
+                <td class="column100 column5" data-column="column5"> would recommend as a gift and although I like t I could definitely live without it</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AWMjT0WguC1rwyj_rFh3</td>
+                <td class="column100 column2" data-column="column2">Amazon - Echo Plus w/ Built-In Hub - Silver</td>
+                <td class="column100 column3" data-column="column3">this is my first experience with Alexa. hard to command, I guess because this is my first time. I did have to reset because she stopped working. I am reading up on Alexa more so I‚Äôll know how to command her.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AWMjT0WguC1rwyj_rFh3</td>
+                <td class="column100 column2" data-column="column2">Amazon - Echo Plus w/ Built-In Hub - Silver</td>
+                <td class="column100 column3" data-column="column3">Unable to try light bulb because it would not hook to echo plus.Waiting for rest of system.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AWMjT0WguC1rwyj_rFh3</td>
+                <td class="column100 column2" data-column="column2">Amazon - Echo Plus w/ Built-In Hub - Silver</td>
+                <td class="column100 column3" data-column="column3">They make it seem like you can pretty much ask anything to Alexa but she never knows anything. It is very non responsive at times too.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpfIfGA1cnluZ0-emyp</td>
+                <td class="column100 column2" data-column="column2">Amazon 9W PowerFast Official OEM USB Charger and Power Adapter for Fire Tablets and Kindle eReaders</td>
+                <td class="column100 column3" data-column="column3">I bought this because the package said it was a fast charger only to find it charges at normal speed... That was disappointing. I'm pretty sure I'm not doing anything wrong. It seems pretty self explanatory... :/</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVph0EeEilAPnD_x9myq</td>
+                <td class="column100 column2" data-column="column2">Fire Kids Edition Tablet, 7 Display, Wi-Fi, 16 GB, Blue Kid-Proof Case</td>
+                <td class="column100 column3" data-column="column3">You get what you pay for. Playtime works when it wants to. Went on a long trip and the videos we downloaded had issues playing most of the time. My son is almost 2. He gets bored of it quickly. The pros are the price and it is well protected externally.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpgdkC8ilAPnD_xsvyi</td>
+                <td class="column100 column2" data-column="column2">Fire Tablet, 7 Display, Wi-Fi, 16 GB - Includes Special Offers, Black</td>
+                <td class="column100 column3" data-column="column3">Decent somewhat slow. Netflix freezes up at times.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVph0EeEilAPnD_x9myq</td>
+                <td class="column100 column2" data-column="column2">Fire Kids Edition Tablet, 7 Display, Wi-Fi, 16 GB, Blue Kid-Proof Case</td>
+                <td class="column100 column3" data-column="column3">There's not much difference in the regular Kindle. Wait till it goes on sale.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpgdkC8ilAPnD_xsvyi</td>
+                <td class="column100 column2" data-column="column2">Fire Tablet, 7 Display, Wi-Fi, 16 GB - Includes Special Offers, Black</td>
+                <td class="column100 column3" data-column="column3">I bought this product 4 months back. It is very slow, i can't open any app in 15 seconds. OS is different than others so we can't get normal apps easily. Only one thing i can say is slow slow slow performance. I don't know how to replace it. Need some help from best buy people.I don't know whether i got defective piece or this is the actual performance</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqVGZSEQMlgsOJE6eUc</td>
+                <td class="column100 column2" data-column="column2">Kindle E-reader - White, 6 Glare-Free Touchscreen Display, Wi-Fi - Includes Special Offers</td>
+                <td class="column100 column3" data-column="column3">In my opinion this model is too small and feels cheap. And sd card slot.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVph0EeEilAPnD_x9myq</td>
+                <td class="column100 column2" data-column="column2">Fire Kids Edition Tablet, 7 Display, Wi-Fi, 16 GB, Blue Kid-Proof Case</td>
+                <td class="column100 column3" data-column="column3">It was ok. You need Internet. The SDmini is a hassle.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpgdkC8ilAPnD_xsvyi</td>
+                <td class="column100 column2" data-column="column2">Fire Tablet, 7 Display, Wi-Fi, 16 GB - Includes Special Offers, Black</td>
+                <td class="column100 column3" data-column="column3">Overall it is a good tablet, but I am not a fan of the limitations of the silk browser and Amazon app store.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqVGWLKnnc1JgDc3jF1</td>
+                <td class="column100 column2" data-column="column2">Fire Kids Edition Tablet, 7 Display, Wi-Fi, 16 GB, Green Kid-Proof Case</td>
+                <td class="column100 column3" data-column="column3">You get what you pay for Was not to happy but for a 2 year old it's ok</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpgdkC8ilAPnD_xsvyi</td>
+                <td class="column100 column2" data-column="column2">Fire Tablet, 7 Display, Wi-Fi, 16 GB - Includes Special Offers, Black</td>
+                <td class="column100 column3" data-column="column3">My 7-year old daughter saved up to by this. Her brother bought the 8GB about a year earlier, so new she needed more space. The OS is a bit clunky, and less intuitive then on higher priced tablets, but tough to beat the price. Speed isn't great for web or certain gaming apps, but fine for books. Parental controls are helpful, but take time to figure out and require more steps than seem necessary to change. Overall, OK first tablet for kids, considering the price. For adults, fine for e-books and VERY basic apps. Otherwise, best to pay up for better quality and OS efficiency.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqVGWLKnnc1JgDc3jF1</td>
+                <td class="column100 column2" data-column="column2">Fire Kids Edition Tablet, 7 Display, Wi-Fi, 16 GB, Green Kid-Proof Case</td>
+                <td class="column100 column3" data-column="column3">it has great durability, but lacks great sound. The picture quality is just ok</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVph0EeEilAPnD_x9myq</td>
+                <td class="column100 column2" data-column="column2">Fire Kids Edition Tablet, 7 Display, Wi-Fi, 16 GB, Blue Kid-Proof Case</td>
+                <td class="column100 column3" data-column="column3">Very slow performance and sometimes applications freeze up and don't work very well , charging port very low quality</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpgdkC8ilAPnD_xsvyi</td>
+                <td class="column100 column2" data-column="column2">Fire Tablet, 7 Display, Wi-Fi, 16 GB - Includes Special Offers, Black</td>
+                <td class="column100 column3" data-column="column3">It's an ok tablet because you need to have an Amazon account in order to download free apps</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVph0EeEilAPnD_x9myq</td>
+                <td class="column100 column2" data-column="column2">Fire Kids Edition Tablet, 7 Display, Wi-Fi, 16 GB, Blue Kid-Proof Case</td>
+                <td class="column100 column3" data-column="column3">Kids will love this tablet, has a camera and kids can make movies with it. Wonderful for a child with a good imagination</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVph0EeEilAPnD_x9myq</td>
+                <td class="column100 column2" data-column="column2">Fire Kids Edition Tablet, 7 Display, Wi-Fi, 16 GB, Blue Kid-Proof Case</td>
+                <td class="column100 column3" data-column="column3">The touch and loading the content is very bad, it doesn't respond quickly and it very slow</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpgdkC8ilAPnD_xsvyi</td>
+                <td class="column100 column2" data-column="column2">Fire Tablet, 7 Display, Wi-Fi, 16 GB - Includes Special Offers, Black</td>
+                <td class="column100 column3" data-column="column3">Bought this tablet for 8 year old. It holding up good & she loves it. She enjoys playimg her games & being able to get on the internet.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqVGZSEQMlgsOJE6eUc</td>
+                <td class="column100 column2" data-column="column2">Kindle E-reader - White, 6 Glare-Free Touchscreen Display, Wi-Fi - Includes Special Offers</td>
+                <td class="column100 column3" data-column="column3">The kindle is good to download apps for books catch up with reading</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVph0EeEilAPnD_x9myq</td>
+                <td class="column100 column2" data-column="column2">Fire Kids Edition Tablet, 7 Display, Wi-Fi, 16 GB, Blue Kid-Proof Case</td>
+                <td class="column100 column3" data-column="column3">I absolutely love how u. An switch from dif accounts</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqVGZSEQMlgsOJE6eUc</td>
+                <td class="column100 column2" data-column="column2">Kindle E-reader - White, 6 Glare-Free Touchscreen Display, Wi-Fi - Includes Special Offers</td>
+                <td class="column100 column3" data-column="column3">This was my second kindle and I didn't realize that it wasn't paper white . What a difference. I took this back to the store and exchanged for paper white.. this was not easy to read for me</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVph0EeEilAPnD_x9myq</td>
+                <td class="column100 column2" data-column="column2">Fire Kids Edition Tablet, 7 Display, Wi-Fi, 16 GB, Blue Kid-Proof Case</td>
+                <td class="column100 column3" data-column="column3">I was completely under the impression that this tablet was child friendly but there are no built in restrictions so my son was able to purchase numerous apps and movies. My son usually uses my wife's ipad so I thought this tablet would be a good replacement but the interface is geared towards adults not a young child. If you buy this tablet, IMMEDIATELY change the settings to require a PIN to make purchases.I think the age recommendation should be 5+ not 3+.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpgdkC8ilAPnD_xsvyi</td>
+                <td class="column100 column2" data-column="column2">Fire Tablet, 7 Display, Wi-Fi, 16 GB - Includes Special Offers, Black</td>
+                <td class="column100 column3" data-column="column3">When I first bought it and got it started it wouldn't register my amazon account. I tried making a new account and I tried using my moms account but it would not work so I took it back and had geek squad look at it and they claimed it was defective and exchanged it for another one and the new one works wonderfully, haven't had any issues with it yet.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqVGWLKnnc1JgDc3jF1</td>
+                <td class="column100 column2" data-column="column2">Fire Kids Edition Tablet, 7 Display, Wi-Fi, 16 GB, Green Kid-Proof Case</td>
+                <td class="column100 column3" data-column="column3">Wish it was a bit faster loading and browsing, but functions as you would expect for kid friendly product. I would spend the extra money next time for a tablet designed for adults but had strong parental controls</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqVGZSEQMlgsOJE6eUc</td>
+                <td class="column100 column2" data-column="column2">Kindle E-reader - White, 6 Glare-Free Touchscreen Display, Wi-Fi - Includes Special Offers</td>
+                <td class="column100 column3" data-column="column3">Very small in size, not exactly what I had thought but yet good product for the price I paid</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpgdkC8ilAPnD_xsvyi</td>
+                <td class="column100 column2" data-column="column2">Fire Tablet, 7 Display, Wi-Fi, 16 GB - Includes Special Offers, Black</td>
+                <td class="column100 column3" data-column="column3">Not happy at first as battery was totally dead when I got it. However, after charging, it's working ok</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpgdkC8ilAPnD_xsvyi</td>
+                <td class="column100 column2" data-column="column2">Fire Tablet, 7 Display, Wi-Fi, 16 GB - Includes Special Offers, Black</td>
+                <td class="column100 column3" data-column="column3">I was not a fan of the Amazon type operating system that is on the tablet. Ended up taking it back because it was not what I wanted, not as easy and supportive of games and apps as an Android tablet.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVph0EeEilAPnD_x9myq</td>
+                <td class="column100 column2" data-column="column2">Fire Kids Edition Tablet, 7 Display, Wi-Fi, 16 GB, Blue Kid-Proof Case</td>
+                <td class="column100 column3" data-column="column3">It's ok but I rather have bought Samsung Galaxy Tab</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVph0EeEilAPnD_x9myq</td>
+                <td class="column100 column2" data-column="column2">Fire Kids Edition Tablet, 7 Display, Wi-Fi, 16 GB, Blue Kid-Proof Case</td>
+                <td class="column100 column3" data-column="column3">You get what you pay for Was not to happy but for a 3 year old it's ok</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqVGWLKnnc1JgDc3jF1</td>
+                <td class="column100 column2" data-column="column2">Fire Kids Edition Tablet, 7 Display, Wi-Fi, 16 GB, Green Kid-Proof Case</td>
+                <td class="column100 column3" data-column="column3">At first I wanted to return this product, I bought it for my 2 yr old. I decided to keep it bc my husband liked it and of course my daughter likes it. I dnt like the fact you cant use the audible app on the kids version. I also bought it so my daughter could be independent, as far as the books none of them are read aloud. She came maneuver the games and movies tho. Its an ok product tho, I love Amazon. My daughter still likes my Samsung Tab better. Would recommend for older kids.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqkIhkhv8e3D1O-lebZ</td>
+                <td class="column100 column2" data-column="column2">All-New Fire HD 8 Tablet, 8 HD Display, Wi-Fi, 16 GB - Includes Special Offers, Blue</td>
+                <td class="column100 column3" data-column="column3">The display is not as sharp and vivid as they say but still good. Probably better for reading than watching videos. We didn't really get it for the games, but there is a good selection. WiFi works well and internet browsing is fast.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqkIh9HQMlgsOJE6fu_</td>
+                <td class="column100 column2" data-column="column2">All-New Fire HD 8 Tablet, 8 HD Display, Wi-Fi, 32 GB - Includes Special Offers, Blue</td>
+                <td class="column100 column3" data-column="column3">I hate amazon app store. Nothing good in there. The tablet is too slow for what I do... it is good for reading only....</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqVGWLKnnc1JgDc3jF1</td>
+                <td class="column100 column2" data-column="column2">Fire Kids Edition Tablet, 7 Display, Wi-Fi, 16 GB, Green Kid-Proof Case</td>
+                <td class="column100 column3" data-column="column3">I like the ipad its very helpful my son has learned alot and i hope that it will help other kids too as they prepare for pre k</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVph0EeEilAPnD_x9myq</td>
+                <td class="column100 column2" data-column="column2">Fire Kids Edition Tablet, 7 Display, Wi-Fi, 16 GB, Blue Kid-Proof Case</td>
+                <td class="column100 column3" data-column="column3">This device is a good if you are looking for a starter tablet for a young individual.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVph0EeEilAPnD_x9myq</td>
+                <td class="column100 column2" data-column="column2">Fire Kids Edition Tablet, 7 Display, Wi-Fi, 16 GB, Blue Kid-Proof Case</td>
+                <td class="column100 column3" data-column="column3">This makes for a decent tablet for a kid with the kids edition, but I'm not sure I'd want it as an adult. There are much better tablets on the market. But since it's cheap, that's to be expected.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqkIh9HQMlgsOJE6fu_</td>
+                <td class="column100 column2" data-column="column2">All-New Fire HD 8 Tablet, 8 HD Display, Wi-Fi, 32 GB - Includes Special Offers, Blue</td>
+                <td class="column100 column3" data-column="column3">meh. it works. i find it difficult to navigate. i also have an ipad mini. this seems to be less intuitive than the ipad.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqVGWLKnnc1JgDc3jF1</td>
+                <td class="column100 column2" data-column="column2">Fire Kids Edition Tablet, 7 Display, Wi-Fi, 16 GB, Green Kid-Proof Case</td>
+                <td class="column100 column3" data-column="column3">I'm a big fan of Amazon and their products, but this tablet is just ok. The build quality is great and the image is very good, but the software is mediocre at best. Worth the price.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpgdkC8ilAPnD_xsvyi</td>
+                <td class="column100 column2" data-column="column2">Fire Tablet, 7 Display, Wi-Fi, 16 GB - Includes Special Offers, Black</td>
+                <td class="column100 column3" data-column="column3">for 33 dollars its a great option. although it was a black friday special its perfect for kids especially considering the amount of damage it can handle!</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVph0EeEilAPnD_x9myq</td>
+                <td class="column100 column2" data-column="column2">Fire Kids Edition Tablet, 7 Display, Wi-Fi, 16 GB, Blue Kid-Proof Case</td>
+                <td class="column100 column3" data-column="column3">I love these Tablets, but the charging ports aren't the best. I bought 3 for Christmas and my kids take excellent care of them. I also do NOT them touch the tablets while they are charging. They have only had their tablets since Christmas day and they won't charge. I highly recommend getting the protection warranty for this item.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqVGWLKnnc1JgDc3jF1</td>
+                <td class="column100 column2" data-column="column2">Fire Kids Edition Tablet, 7 Display, Wi-Fi, 16 GB, Green Kid-Proof Case</td>
+                <td class="column100 column3" data-column="column3">Battery dies after an hour...should last longer for the money. Will not bold charge.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpgdkC8ilAPnD_xsvyi</td>
+                <td class="column100 column2" data-column="column2">Fire Tablet, 7 Display, Wi-Fi, 16 GB - Includes Special Offers, Black</td>
+                <td class="column100 column3" data-column="column3">It's great for beginners, like children, but very limiting for me. I can't use many apps because it doesn't allow me to use the Google play store.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVph0EeEilAPnD_x9myq</td>
+                <td class="column100 column2" data-column="column2">Fire Kids Edition Tablet, 7 Display, Wi-Fi, 16 GB, Blue Kid-Proof Case</td>
+                <td class="column100 column3" data-column="column3">Good for alittle ones for games and movies picture not so clear but not expensive</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqVGWLKnnc1JgDc3jF1</td>
+                <td class="column100 column2" data-column="column2">Fire Kids Edition Tablet, 7 Display, Wi-Fi, 16 GB, Green Kid-Proof Case</td>
+                <td class="column100 column3" data-column="column3">These are great tablets for the kids and the price is wonderful with the warranty and the soft, yet bulky (a good thing in this instance) case. The only thing I wish, was that it could access the Google Play Store so my kids could watch the movies we have in our Google Play Movies account.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVph0EeEilAPnD_x9myq</td>
+                <td class="column100 column2" data-column="column2">Fire Kids Edition Tablet, 7 Display, Wi-Fi, 16 GB, Blue Kid-Proof Case</td>
+                <td class="column100 column3" data-column="column3">These are great tablets for the kids and the price is wonderful with the warranty and the soft, yet bulky (a good thing in this instance) case. The only thing I wish, was that it could access the Google Play Store so my kids could watch the movies we have in our Google Play Movies account.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqVGZSEQMlgsOJE6eUc</td>
+                <td class="column100 column2" data-column="column2">Kindle E-reader - White, 6 Glare-Free Touchscreen Display, Wi-Fi - Includes Special Offers</td>
+                <td class="column100 column3" data-column="column3">it would not load my books proper. took a dozen tries erasing an dreregistering. screen too dark</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVph0EeEilAPnD_x9myq</td>
+                <td class="column100 column2" data-column="column2">Fire Kids Edition Tablet, 7 Display, Wi-Fi, 16 GB, Blue Kid-Proof Case</td>
+                <td class="column100 column3" data-column="column3">The tablet is pretty good, I would give it 5 stars if you are able to download an use apps from the Google store, that is one of my only big complaint. And also how fast the SD card got filled with items from Amazon OS that's on the tablet without the user knowing. On the other hand, With four kids using tablets as reward time it helps the kids free time is awesome it useful</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqVGWLKnnc1JgDc3jF1</td>
+                <td class="column100 column2" data-column="column2">Fire Kids Edition Tablet, 7 Display, Wi-Fi, 16 GB, Green Kid-Proof Case</td>
+                <td class="column100 column3" data-column="column3">There is nothing spectacular about this item but also nothing majorly wrong with it. The biggest flaw is that this is geared to kids and there is no way that I have found searching settings or online to lock the touch screen so that a video keeps playing if the child hits the screen. This means lots of times helping get back into the movie or show rather than just relaxing like an iPad can do with guided access activated.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqVGZSEQMlgsOJE6eUc</td>
+                <td class="column100 column2" data-column="column2">Kindle E-reader - White, 6 Glare-Free Touchscreen Display, Wi-Fi - Includes Special Offers</td>
+                <td class="column100 column3" data-column="column3">I bought it cause I wanted to read more. That didn't happen, I tried and I just can't read on devices I need old school paper between my hands</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpgdkC8ilAPnD_xsvyi</td>
+                <td class="column100 column2" data-column="column2">Fire Tablet, 7 Display, Wi-Fi, 16 GB - Includes Special Offers, Black</td>
+                <td class="column100 column3" data-column="column3">This tablet is a good kids tablet and or for prime users. Not a laptop replacement or for non amazon users</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpgdkC8ilAPnD_xsvyi</td>
+                <td class="column100 column2" data-column="column2">Fire Tablet, 7 Display, Wi-Fi, 16 GB - Includes Special Offers, Black</td>
+                <td class="column100 column3" data-column="column3">No instructions. Either paper or electronic. How do I transfer apps & data from old kindle to new one 9</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqVGZSEQMlgsOJE6eUc</td>
+                <td class="column100 column2" data-column="column2">Kindle E-reader - White, 6 Glare-Free Touchscreen Display, Wi-Fi - Includes Special Offers</td>
+                <td class="column100 column3" data-column="column3">In my opinion this model is too small and feels cheap. And sd card slot.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpgdkC8ilAPnD_xsvyi</td>
+                <td class="column100 column2" data-column="column2">Fire Tablet, 7 Display, Wi-Fi, 16 GB - Includes Special Offers, Black</td>
+                <td class="column100 column3" data-column="column3">Not as good as before the old kindle, just seams to work better</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpgdkC8ilAPnD_xsvyi</td>
+                <td class="column100 column2" data-column="column2">Fire Tablet, 7 Display, Wi-Fi, 16 GB - Includes Special Offers, Black</td>
+                <td class="column100 column3" data-column="column3">I purchased this since I bought my grandson this tablet for Christmas. The tablet is slow, considering price that's OK.I have problems with the charger, it won't charge when I am using the tablet, the charger needs to be plugged in and not moved for it to charge.For the price the tablet is OK.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVph0EeEilAPnD_x9myq</td>
+                <td class="column100 column2" data-column="column2">Fire Kids Edition Tablet, 7 Display, Wi-Fi, 16 GB, Blue Kid-Proof Case</td>
+                <td class="column100 column3" data-column="column3">There is nothing spectacular about this item but also nothing majorly wrong with it. The biggest flaw is that this is geared to kids and there is no way that I have found searching settings or online to lock the touch screen so that a video keeps playing if the child hits the screen. This means lots of times helping get back into the movie or show rather than just relaxing like an iPad can do with guided access activated.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpgdkC8ilAPnD_xsvyi</td>
+                <td class="column100 column2" data-column="column2">Fire Tablet, 7 Display, Wi-Fi, 16 GB - Includes Special Offers, Black</td>
+                <td class="column100 column3" data-column="column3">Good tablet for kids. Lots of appts to download for games</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpgdkC8ilAPnD_xsvyi</td>
+                <td class="column100 column2" data-column="column2">Fire Tablet, 7 Display, Wi-Fi, 16 GB - Includes Special Offers, Black</td>
+                <td class="column100 column3" data-column="column3">bought a few kindles in the past but this time one of it came defective. the port was bent and it was hard to charge but still possible. comes in 4 different color. was 16gb enough space for kids, has camera, ok quality not the best but ok for pics taken by kids</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqVGZSEQMlgsOJE6eUc</td>
+                <td class="column100 column2" data-column="column2">Kindle E-reader - White, 6 Glare-Free Touchscreen Display, Wi-Fi - Includes Special Offers</td>
+                <td class="column100 column3" data-column="column3">I love having real books, but these are great for travel and keeping your bookshelves lighter. I wish you could buy them with larger storage without having to buy the larger size pad. It also sucks that they are 4gig, but 1gig is taken up by the OS and advertising. Seriously? It reads PDFs and needs a 1 gig OS. Lame. The last thing I would change is being able to reverse the lettering so at night you could have white lettering and a black background, so it's less bright on the eyes.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqVGZSEQMlgsOJE6eUc</td>
+                <td class="column100 column2" data-column="column2">Kindle E-reader - White, 6 Glare-Free Touchscreen Display, Wi-Fi - Includes Special Offers</td>
+                <td class="column100 column3" data-column="column3">It is difficult to understand the instructions. I am still working on it.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqVGZSEQMlgsOJE6eUc</td>
+                <td class="column100 column2" data-column="column2">Kindle E-reader - White, 6 Glare-Free Touchscreen Display, Wi-Fi - Includes Special Offers</td>
+                <td class="column100 column3" data-column="column3">Its a decent reader for beginners. There is no backlight, so not good for reading in dark. also slips from hands, so purchase a cover if you buy it.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVph0EeEilAPnD_x9myq</td>
+                <td class="column100 column2" data-column="column2">Fire Kids Edition Tablet, 7 Display, Wi-Fi, 16 GB, Blue Kid-Proof Case</td>
+                <td class="column100 column3" data-column="column3">I'll give it 3 starts because it's a decent tablet. But if the screen messes up when I'm trying to use it i can't imagine how my granddaughter feels.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVph0EeEilAPnD_x9myq</td>
+                <td class="column100 column2" data-column="column2">Fire Kids Edition Tablet, 7 Display, Wi-Fi, 16 GB, Blue Kid-Proof Case</td>
+                <td class="column100 column3" data-column="column3">Super slow, not of decent quality.I would not buy another. Memory on it is lacking for 8 gig. I will not recommend it to anyone</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVph0EeEilAPnD_x9myq</td>
+                <td class="column100 column2" data-column="column2">Fire Kids Edition Tablet, 7 Display, Wi-Fi, 16 GB, Blue Kid-Proof Case</td>
+                <td class="column100 column3" data-column="column3">Works fine on wifi, otherwise a little slow. My kid enjoys it though. For the price it's good.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpfpK8KLJeJML43BCuD</td>
+                <td class="column100 column2" data-column="column2">Amazon Tap - Alexa-Enabled Portable Bluetooth Speaker</td>
+                <td class="column100 column3" data-column="column3">Alexa works great, but the the sound quality of this speaker is terrible, your much better off with a echo dot and bose sound link mini set up.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpfpK8KLJeJML43BCuD</td>
+                <td class="column100 column2" data-column="column2">Amazon Tap - Alexa-Enabled Portable Bluetooth Speaker</td>
+                <td class="column100 column3" data-column="column3">This product, while the speaker is great, fails to deliver with a voice interface. Use your cell phone or computer and buy an Echo Dot.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpfpK8KLJeJML43BCuD</td>
+                <td class="column100 column2" data-column="column2">Amazon Tap - Alexa-Enabled Portable Bluetooth Speaker</td>
+                <td class="column100 column3" data-column="column3">It works about 50% of the time when asking it a question.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpfpK8KLJeJML43BCuD</td>
+                <td class="column100 column2" data-column="column2">Amazon Tap - Alexa-Enabled Portable Bluetooth Speaker</td>
+                <td class="column100 column3" data-column="column3">I returned it because I wanted better sound...opted for a bose soundlink. Decent speaker with nice amazon prime/Alexa features...just not the sound I was looking for.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpfpK8KLJeJML43BCuD</td>
+                <td class="column100 column2" data-column="column2">Amazon Tap - Alexa-Enabled Portable Bluetooth Speaker</td>
+                <td class="column100 column3" data-column="column3">Much better than the echo dot. However, the fact that you have to touch the button to activate it instead of just talking to it is a bit annoying. Speaker is fairly powerful for its size.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpfpK8KLJeJML43BCuD</td>
+                <td class="column100 column2" data-column="column2">Amazon Tap - Alexa-Enabled Portable Bluetooth Speaker</td>
+                <td class="column100 column3" data-column="column3">I wouldn't buy it again...the software doesn't seem as well integrated with the hardware on this machine. I also have an Echo and I don't have the same connectivity issues with it that I do with this. I liked the features available with this...portability mainly with a long battery life, but with plagued by connectivity issues I can't say I would recommend it. I have looked at reviews online since purchasing and have discovered I am not the only one that feels this way. The sound, when it is connected and responding, is amazing.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpidLjVilAPnD_xEVpI</td>
+                <td class="column100 column2" data-column="column2">Fire HD 10 Tablet, 10.1 HD Display, Wi-Fi, 16 GB - Includes Special Offers, Silver Aluminum</td>
+                <td class="column100 column3" data-column="column3">For books games and internet it's perfectSound is a ittle weak</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpidLjVilAPnD_xEVpI</td>
+                <td class="column100 column2" data-column="column2">Fire HD 10 Tablet, 10.1 HD Display, Wi-Fi, 16 GB - Includes Special Offers, Silver Aluminum</td>
+                <td class="column100 column3" data-column="column3">We bought this because we thought it would be great for reading books and playing a few games. However, awkward size makes the device very weird to hold and generally not enjoyable. The Fire HD 8 shares the exact same specs and has a higher battery life. There's almost no reason to take this device over the 8.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVphPmHuilAPnD_x3E5h</td>
+                <td class="column100 column2" data-column="column2">Amazon - Kindle Voyage - 6" - 4GB - Black</td>
+                <td class="column100 column3" data-column="column3">Have had it for a while noe. A littlebit unusual to press so hard to change page but now starting to get used to it.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVphPmHuilAPnD_x3E5h</td>
+                <td class="column100 column2" data-column="column2">Amazon - Kindle Voyage - 6" - 4GB - Black</td>
+                <td class="column100 column3" data-column="column3">The Kindle is great for just reading books, and the battery power is pretty good.The experimental browser is not very user friendly.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVphPmHuilAPnD_x3E5h</td>
+                <td class="column100 column2" data-column="column2">Amazon - Kindle Voyage - 6" - 4GB - Black</td>
+                <td class="column100 column3" data-column="column3">I have a Paper White 1 and 2. Honestly it is difficult to justify double the price value. I certainly like most added features but not sure its worth the extra money. To note it operates great just not sure its worth an upgrade to the latest greatest.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqkIhwDv8e3D1O-lebb</td>
+                <td class="column100 column2" data-column="column2">All-New Fire HD 8 Tablet, 8" HD Display, Wi-Fi, 16 GB - Includes Special Offers, Magenta</td>
+                <td class="column100 column3" data-column="column3">I have had every version of the Kindle since the week it was introduced and jumped at the chance for a Kindle Fire. I replaced the first one I had in 2014 and it was everything I wanted except this past summer it started overheating and got nonresponsive in the midday heat. So...I got this one. First of all I miss Swype. WHY get rid of it? Secondly I cannot put two of my favorite apps (which work on my old one) to work on this but lastly and most importantly: every once in awhile the screen freezes with a bunch of code "shimmering" in the background and only turning it off and/or leaving it for awhile brings it back to life AND it turns itself off. It seems to happen when I close a program and move to a new one. Aggravating and not what I expect from a product with which I have been happy in the past.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqkIhwDv8e3D1O-lebb</td>
+                <td class="column100 column2" data-column="column2">All-New Fire HD 8 Tablet, 8" HD Display, Wi-Fi, 16 GB - Includes Special Offers, Magenta</td>
+                <td class="column100 column3" data-column="column3">I was hoping to use Google launcher with this tablet but it is really locked down and you cannot change the launcher or the lock screen. Still cheap and fine for watching movies.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqkIhwDv8e3D1O-lebb</td>
+                <td class="column100 column2" data-column="column2">All-New Fire HD 8 Tablet, 8" HD Display, Wi-Fi, 16 GB - Includes Special Offers, Magenta</td>
+                <td class="column100 column3" data-column="column3">I purchased this to download books for school. Screen too small and OS was not to my liking</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqkIhwDv8e3D1O-lebb</td>
+                <td class="column100 column2" data-column="column2">All-New Fire HD 8 Tablet, 8" HD Display, Wi-Fi, 16 GB - Includes Special Offers, Magenta</td>
+                <td class="column100 column3" data-column="column3">Not many apps. The first one was already returned...no power issue after 1week..I hope the second one is fine...</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqkIhwDv8e3D1O-lebb</td>
+                <td class="column100 column2" data-column="column2">All-New Fire HD 8 Tablet, 8" HD Display, Wi-Fi, 16 GB - Includes Special Offers, Magenta</td>
+                <td class="column100 column3" data-column="column3">Good starter unit. Easy for a beginner to use. Priced low to give you a taste of the tablet world.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqkIhwDv8e3D1O-lebb</td>
+                <td class="column100 column2" data-column="column2">All-New Fire HD 8 Tablet, 8" HD Display, Wi-Fi, 16 GB - Includes Special Offers, Magenta</td>
+                <td class="column100 column3" data-column="column3"> far worse than impossible in sunlight. There should be some sort of temporary screen or other add-on that can be used with the device when in sunny or bright locations.</td>
+                <td class="column100 column4" data-column="column4">Only problem is that it is impossible to read or do anything on the KindleFire with any light in the room at all</td>
+                <td class="column100 column5" data-column="column5"> far worse than impossible in sunlight. There should be some sort of temporary screen or other add-on that can be used with the device when in sunny or bright locations.</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqkIhwDv8e3D1O-lebb</td>
+                <td class="column100 column2" data-column="column2">All-New Fire HD 8 Tablet, 8" HD Display, Wi-Fi, 16 GB - Includes Special Offers, Magenta</td>
+                <td class="column100 column3" data-column="column3">Much harder to work than an android. None of the wallpaper apps I downloaded from the kindle store work on the device. many of the other apps look cheap on the display. other wise it is prettier and more responsive than the cheaper $49 tablet. They make it look like an android tablet but it is not. no google play. Everything is just harder to work than on a regular android BUT for a tablet under $100 it exceeds expectations. It is more responsive than other models of fire</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqkIhwDv8e3D1O-lebb</td>
+                <td class="column100 column2" data-column="column2">All-New Fire HD 8 Tablet, 8" HD Display, Wi-Fi, 16 GB - Includes Special Offers, Magenta</td>
+                <td class="column100 column3" data-column="column3">Worse graphics, won't keep a wireless connection,overall not satisfied</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqkIhwDv8e3D1O-lebb</td>
+                <td class="column100 column2" data-column="column2">All-New Fire HD 8 Tablet, 8" HD Display, Wi-Fi, 16 GB - Includes Special Offers, Magenta</td>
+                <td class="column100 column3" data-column="column3">This is a good tablet for basic use. I ened up returning it and going with an iPad which met my needs more. This tablet would be good for someone with limited computer knowledge/use.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqkIhwDv8e3D1O-lebb</td>
+                <td class="column100 column2" data-column="column2">All-New Fire HD 8 Tablet, 8" HD Display, Wi-Fi, 16 GB - Includes Special Offers, Magenta</td>
+                <td class="column100 column3" data-column="column3">I had to sideload google play services to be able to download from the google play store or use google chrome as a web browser, as this tablet was designed to be exclusive to Amazon.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqkIhwDv8e3D1O-lebb</td>
+                <td class="column100 column2" data-column="column2">All-New Fire HD 8 Tablet, 8" HD Display, Wi-Fi, 16 GB - Includes Special Offers, Magenta</td>
+                <td class="column100 column3" data-column="column3">Very helpful and friendly. Didn't have too much selection on what I was looking for. But found what I needed.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqkIhwDv8e3D1O-lebb</td>
+                <td class="column100 column2" data-column="column2">All-New Fire HD 8 Tablet, 8" HD Display, Wi-Fi, 16 GB - Includes Special Offers, Magenta</td>
+                <td class="column100 column3" data-column="column3">the amount i paid for the tablet is worth it on sale.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqkIhwDv8e3D1O-lebb</td>
+                <td class="column100 column2" data-column="column2">All-New Fire HD 8 Tablet, 8" HD Display, Wi-Fi, 16 GB - Includes Special Offers, Magenta</td>
+                <td class="column100 column3" data-column="column3">It's unfair for me to rate this product cause I have not even taken it out of the box to set it up.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqkIhwDv8e3D1O-lebb</td>
+                <td class="column100 column2" data-column="column2">All-New Fire HD 8 Tablet, 8" HD Display, Wi-Fi, 16 GB - Includes Special Offers, Magenta</td>
+                <td class="column100 column3" data-column="column3">This tablet is great for books, audible books, music and all things Amazon. The included browser (Silk) is not the best. I purchased expanded memory (64GB SD card) for about $30 more and a cover for about $20. The biggest issue I have with this unit is that it is slow (when compared to an iPad) and it tends to freeze every so often. For about 2.5x more money, consider an iPad instead.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqkIhwDv8e3D1O-lebb</td>
+                <td class="column100 column2" data-column="column2">All-New Fire HD 8 Tablet, 8" HD Display, Wi-Fi, 16 GB - Includes Special Offers, Magenta</td>
+                <td class="column100 column3" data-column="column3">I'm disappointed that it doesn't have a mirror display mode.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqkIhwDv8e3D1O-lebb</td>
+                <td class="column100 column2" data-column="column2">All-New Fire HD 8 Tablet, 8" HD Display, Wi-Fi, 16 GB - Includes Special Offers, Magenta</td>
+                <td class="column100 column3" data-column="column3">Hoped this Fire HD 8 would be faster than my old HD Fire...not so much, I guess I expected the new Fire HD 8 to perform better but it still lags and is slow to load information while surfing the Internet. My wife's Ipad is light years ahead on this one, but what do you expect from a 60-70 dollar tablet.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqkIhwDv8e3D1O-lebb</td>
+                <td class="column100 column2" data-column="column2">All-New Fire HD 8 Tablet, 8" HD Display, Wi-Fi, 16 GB - Includes Special Offers, Magenta</td>
+                <td class="column100 column3" data-column="column3">Great value for the money. However, the operating system is a bit clunky. Constant notifications and messages to delete. Some can be turned off, other seem to just keep appearing. The reader app surprisingly is less than intuitive.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqkIhwDv8e3D1O-lebb</td>
+                <td class="column100 column2" data-column="column2">All-New Fire HD 8 Tablet, 8" HD Display, Wi-Fi, 16 GB - Includes Special Offers, Magenta</td>
+                <td class="column100 column3" data-column="column3">the first worked fine for three weeks then stopped. took back and got a replacement. this one lasted almost a month. again took it back and was told I had to deal with Amazon.Found out thru Amazon webpage that units simply froze up and how to reset it. Was upset that store associate knew nothing about the product. Had to research everything myself.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqkIhwDv8e3D1O-lebb</td>
+                <td class="column100 column2" data-column="column2">All-New Fire HD 8 Tablet, 8" HD Display, Wi-Fi, 16 GB - Includes Special Offers, Magenta</td>
+                <td class="column100 column3" data-column="column3">upgraded my 3 year old kindle- same old. doesnt seem that great of a difference. the graphical interface still sucks but its decent for reading.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqkIhwDv8e3D1O-lebb</td>
+                <td class="column100 column2" data-column="column2">All-New Fire HD 8 Tablet, 8" HD Display, Wi-Fi, 16 GB - Includes Special Offers, Magenta</td>
+                <td class="column100 column3" data-column="column3">Good tablet but not as smooth as high end tablets. It's limited to Amazon so don't expect to do as much as an Android or iPad. I like mine and will continue to use it. I recommend using one if you can before buying.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqkIhwDv8e3D1O-lebb</td>
+                <td class="column100 column2" data-column="column2">All-New Fire HD 8 Tablet, 8" HD Display, Wi-Fi, 16 GB - Includes Special Offers, Magenta</td>
+                <td class="column100 column3" data-column="column3">The specs are good, feels solid, can't stand the OS. Too many ads you can't get rid of, not as customizable as I'd like. If that doesn't bother you, it's a good tablet for the price. Don't expect to run games on it, not powerful enough for that.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpjEN4jLJeJML43rpUe</td>
+                <td class="column100 column2" data-column="column2">Brand New Amazon Kindle Fire 16gb 7" Ips Display Tablet Wifi 16 Gb Blue</td>
+                <td class="column100 column3" data-column="column3">Not easy to navigate and download apps to the device</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpjEN4jLJeJML43rpUe</td>
+                <td class="column100 column2" data-column="column2">Brand New Amazon Kindle Fire 16gb 7" Ips Display Tablet Wifi 16 Gb Blue</td>
+                <td class="column100 column3" data-column="column3">My 7-year old daughter saved up to by this. Her brother bought the 8GB about a year earlier, so new she needed more space. The OS is a bit clunky, and less intuitive then on higher priced tablets, but tough to beat the price. Speed isn't great for web or certain gaming apps, but fine for books. Parental controls are helpful, but take time to figure out and require more steps than seem necessary to change. Overall, OK first tablet for kids, considering the price. For adults, fine for e-books and VERY basic apps. Otherwise, best to pay up for better quality and OS efficiency.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpjEN4jLJeJML43rpUe</td>
+                <td class="column100 column2" data-column="column2">Brand New Amazon Kindle Fire 16gb 7" Ips Display Tablet Wifi 16 Gb Blue</td>
+                <td class="column100 column3" data-column="column3">is a God tablet but the camera could be a little better</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpjEN4jLJeJML43rpUe</td>
+                <td class="column100 column2" data-column="column2">Brand New Amazon Kindle Fire 16gb 7" Ips Display Tablet Wifi 16 Gb Blue</td>
+                <td class="column100 column3" data-column="column3">I purchased this since I bought my grandson this tablet for Christmas. The tablet is slow, considering price that's OK.I have problems with the charger, it won't charge when I am using the tablet, the charger needs to be plugged in and not moved for it to charge.For the price the tablet is OK.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpjEN4jLJeJML43rpUe</td>
+                <td class="column100 column2" data-column="column2">Brand New Amazon Kindle Fire 16gb 7" Ips Display Tablet Wifi 16 Gb Blue</td>
+                <td class="column100 column3" data-column="column3">Is nice for reading, sometimes the screen is a little slow. Hate the ads on the main screen</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpjEN4jLJeJML43rpUe</td>
+                <td class="column100 column2" data-column="column2">Brand New Amazon Kindle Fire 16gb 7" Ips Display Tablet Wifi 16 Gb Blue</td>
+                <td class="column100 column3" data-column="column3">It's an ok tablet because you need to have an Amazon account in order to download free apps</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpjEN4jLJeJML43rpUe</td>
+                <td class="column100 column2" data-column="column2">Brand New Amazon Kindle Fire 16gb 7" Ips Display Tablet Wifi 16 Gb Blue</td>
+                <td class="column100 column3" data-column="column3">Was good price.Wish it had Google Play download on to it.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpjEN4jLJeJML43rpUe</td>
+                <td class="column100 column2" data-column="column2">Brand New Amazon Kindle Fire 16gb 7" Ips Display Tablet Wifi 16 Gb Blue</td>
+                <td class="column100 column3" data-column="column3">Overall it is a good tablet, but I am not a fan of the limitations of the silk browser and Amazon app store.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpjEN4jLJeJML43rpUe</td>
+                <td class="column100 column2" data-column="column2">Brand New Amazon Kindle Fire 16gb 7" Ips Display Tablet Wifi 16 Gb Blue</td>
+                <td class="column100 column3" data-column="column3">Great for first time tablet, but more advanced options available</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpjEN4jLJeJML43rpUe</td>
+                <td class="column100 column2" data-column="column2">Brand New Amazon Kindle Fire 16gb 7" Ips Display Tablet Wifi 16 Gb Blue</td>
+                <td class="column100 column3" data-column="column3">It's a little slow, and the camera isn't the best, but for the price it's fine</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpjEN4jLJeJML43rpUe</td>
+                <td class="column100 column2" data-column="column2">Brand New Amazon Kindle Fire 16gb 7" Ips Display Tablet Wifi 16 Gb Blue</td>
+                <td class="column100 column3" data-column="column3">Overall it is a good tablet, but I am not a fan of the limitations of the silk browser and Amazon app store.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpjEN4jLJeJML43rpUe</td>
+                <td class="column100 column2" data-column="column2">Brand New Amazon Kindle Fire 16gb 7" Ips Display Tablet Wifi 16 Gb Blue</td>
+                <td class="column100 column3" data-column="column3">I wish it has some more of the apps from the play store some are just not there</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpjEN4jLJeJML43rpUe</td>
+                <td class="column100 column2" data-column="column2">Brand New Amazon Kindle Fire 16gb 7" Ips Display Tablet Wifi 16 Gb Blue</td>
+                <td class="column100 column3" data-column="column3">Bought this tablet for 8 year old. It holding up good & she loves it. She enjoys playimg her games & being able to get on the internet.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpjEN4jLJeJML43rpUe</td>
+                <td class="column100 column2" data-column="column2">Brand New Amazon Kindle Fire 16gb 7" Ips Display Tablet Wifi 16 Gb Blue</td>
+                <td class="column100 column3" data-column="column3">Good for pleasure not for work. But good value for what you pay.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpjEN4jLJeJML43rpUe</td>
+                <td class="column100 column2" data-column="column2">Brand New Amazon Kindle Fire 16gb 7" Ips Display Tablet Wifi 16 Gb Blue</td>
+                <td class="column100 column3" data-column="column3">I was hoping to find something universal to as a tablet but you get what you pay for.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpjEN4jLJeJML43rpUe</td>
+                <td class="column100 column2" data-column="column2">Brand New Amazon Kindle Fire 16gb 7" Ips Display Tablet Wifi 16 Gb Blue</td>
+                <td class="column100 column3" data-column="column3">bought a few kindles in the past but this time one of it came defective. the port was bent and it was hard to charge but still possible. comes in 4 different color. was 16gb enough space for kids, has camera, ok quality not the best but ok for pics taken by kids</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpjEN4jLJeJML43rpUe</td>
+                <td class="column100 column2" data-column="column2">Brand New Amazon Kindle Fire 16gb 7" Ips Display Tablet Wifi 16 Gb Blue</td>
+                <td class="column100 column3" data-column="column3">I only bought this as a travel companion when I fly. It was cheap and functional.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpjEN4jLJeJML43rpUe</td>
+                <td class="column100 column2" data-column="column2">Brand New Amazon Kindle Fire 16gb 7" Ips Display Tablet Wifi 16 Gb Blue</td>
+                <td class="column100 column3" data-column="column3">Nothing too special or complicated. Fills the need.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpjEN4jLJeJML43rpUe</td>
+                <td class="column100 column2" data-column="column2">Brand New Amazon Kindle Fire 16gb 7" Ips Display Tablet Wifi 16 Gb Blue</td>
+                <td class="column100 column3" data-column="column3">bought a few kindles in the past but this time one of it came defective. the port was bent and it was hard to charge but still possible. comes in 4 different color. was 16gb enough space for kids, has camera, ok quality not the best but ok for pics taken by kids</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpjEN4jLJeJML43rpUe</td>
+                <td class="column100 column2" data-column="column2">Brand New Amazon Kindle Fire 16gb 7" Ips Display Tablet Wifi 16 Gb Blue</td>
+                <td class="column100 column3" data-column="column3">I bought a Kindle Fire 16GB for my 6 year old son in June. After 4 months the charging port came loose and the device will not charge. Best Buy is aware of the issue and will do nothing about it. Amazon will not warranty their product for more than 90 days and they said the charging ports often break if children are using them! They have no options to fix the device and only offer a small discount if I buy a new one. Amazon does not stand behind this product. They are aware of the defect and continue to sell these.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpjEN4jLJeJML43rpUe</td>
+                <td class="column100 column2" data-column="column2">Brand New Amazon Kindle Fire 16gb 7" Ips Display Tablet Wifi 16 Gb Blue</td>
+                <td class="column100 column3" data-column="column3">Great for first time tablet, but more advanced options available</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVpjEN4jLJeJML43rpUe</td>
+                <td class="column100 column2" data-column="column2">Brand New Amazon Kindle Fire 16gb 7" Ips Display Tablet Wifi 16 Gb Blue</td>
+                <td class="column100 column3" data-column="column3">No instructions. Either paper or electronic. How do I transfer apps & data from old kindle to new one 9</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqkIj9snnc1JgDc3khU</td>
+                <td class="column100 column2" data-column="column2">Fire HD 8 Tablet with Alexa, 8" HD Display, 32 GB, Tangerine - with Special Offers</td>
+                <td class="column100 column3" data-column="column3">In my opinion it's very slow for internet use. Good for our 5 yr old to use but we purchased this for her to do online curriculums, which is almost impossible to do with this tablet because of the speed. Our internet connection is great with every other laptop and computer in the house.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqkIj9snnc1JgDc3khU</td>
+                <td class="column100 column2" data-column="column2">Fire HD 8 Tablet with Alexa, 8" HD Display, 32 GB, Tangerine - with Special Offers</td>
+                <td class="column100 column3" data-column="column3">Decent little tablet if you are not a game player. Tablet shuts down and I cant get it back on when I play games for long periods of time. It's not my ipad, that's for sure.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqkIh8WQMlgsOJE6fu-</td>
+                <td class="column100 column2" data-column="column2">All-New Fire HD 8 Tablet, 8" HD Display, Wi-Fi, 32 GB - Includes Special Offers, Black</td>
+                <td class="column100 column3" data-column="column3">meh. it works. i find it difficult to navigate. i also have an ipad mini. this seems to be less intuitive than the ipad.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqkIh8WQMlgsOJE6fu-</td>
+                <td class="column100 column2" data-column="column2">All-New Fire HD 8 Tablet, 8" HD Display, Wi-Fi, 32 GB - Includes Special Offers, Black</td>
+                <td class="column100 column3" data-column="column3">Decent little tablet if you are not a game player. Tablet shuts down and I cant get it back on when I play games for long periods of time. It's not my ipad, that's for sure.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqkIh8WQMlgsOJE6fu-</td>
+                <td class="column100 column2" data-column="column2">All-New Fire HD 8 Tablet, 8" HD Display, Wi-Fi, 32 GB - Includes Special Offers, Black</td>
+                <td class="column100 column3" data-column="column3">I bought this as a Christmas gift for my wife and things started out well but lately my wife has been having issues with it. It hasn't been working as it should and its only been a little over 2 months since she's had it. I'm going to try a hard reset on it and see if that helps.</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            
+
+            <tr class="row100">
+                <td class="column100 column1" data-column="column1">AVqkIdZiv8e3D1O-leaJ</td>
+                <td class="column100 column2" data-column="column2">Fire Tablet with Alexa, 7" Display, 16 GB, Magenta - with Special Offers</td>
+                <td class="column100 column3" data-column="column3">I wish it has some more of the apps from the play store some are just not there</td>
+                <td class="column100 column4" data-column="column4">0</td>
+                <td class="column100 column5" data-column="column5">0</td>
+                <td class="column100 column6" data-column="column6">
+                    1
+                </td>
+            </tr>
+            

@@ -9,7 +9,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Site Metas -->
-<title>Sentimental Analysis</title>
+<title>Review Bay</title>
 <meta name="keywords" content="">
 <meta name="description" content="">
 <meta name="author" content="">
@@ -53,7 +53,7 @@
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <div class="container-fluid">
                 <a class="navbar-brand" href="/">
-                    <img src="./static/images/Screenshot_20200114-191456__02.jpeg" alt="" style="width:75%;height:75%;" />
+                    <img src="./static/images/rsz_1rsz_1579321449832.png" alt="" style="width:75%;height:75%;" />
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbars-host" aria-controls="navbars-rs-food" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="icon-bar"></span>
@@ -64,7 +64,7 @@
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item active"><a class="nav-link" href="/">Home</a></li>
                         <li class="nav-item"><a class="nav-link" href="/about">About Us</a></li>
-                        <li class="nav-item"><a class="nav-link">{{ name }}</a></li>
+                        <li class="nav-item"><a class="nav-link" href="/logout">Logout</a></li>
                     </ul>
 
                 </div>
@@ -75,21 +75,21 @@
 
     <div id="carouselExampleControls" class="carousel slide bs-slider box-slider" data-ride="carousel" data-pause="hover" data-interval="false">
         <!-- Indicators -->
-        <ol class="carousel-indicators">
+        <!---<ol class="carousel-indicators">
             <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
             <li data-target="#carouselExampleControls" data-slide-to="1"></li>
             <li data-target="#carouselExampleControls" data-slide-to="2"></li>
-        </ol>
+        </ol>-->
         <div class="carousel-inner" role="listbox">
             <div class="carousel-item active">
-                <div id="home" class="first-section" style="background-image:url('images/wallpaper4.jpg');">
+                <div id="home" class="first-section" style="background-image:url('./static/images/DNA-Transfer_13-w.jpg');">
                     <div class="dtab">
                         <div class="container">
                             <div class="row">
-                                <div class="col-md-12 col-sm-12 text-right">
+                                <div class="col-md-12 col-sm-12 text-center">
                                     <div class="big-tagline">
-                                        <h2><strong>Feedback Management</strong> System</h2>
-                                        <p class="lead">Review Bay is a customer review management platform that uses sentimental analysis to provide the insights for your data.</p>
+                                        <h2><strong>Upload</strong> Files</h2>
+                                        <p class="lead">You are one step closer to analysis.</p>
 
                                     </div>
                                 </div>
@@ -144,24 +144,29 @@
                 <!-- end section -->
             </div>
             <!-- Left Control -->
-            <a class="new-effect carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+            <!---<a class="new-effect carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
                 <span class="fa fa-angle-left" aria-hidden="true"></span>
                 <span class="sr-only">Previous</span>
-            </a>
+            </a>-->
 
             <!-- Right Control -->
-            <a class="new-effect carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+            <!--- <a class="new-effect carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
                 <span class="fa fa-angle-right" aria-hidden="true"></span>
                 <span class="sr-only">Next</span>
-            </a>
+            </a>-->
         </div>
     </div>
 
 
     <div class="col-lg-12">
         <div class="customwidget text-center">
-            <h1>Get Started</h1>
-            <p>Review Bay is a feedback management system gathers customer feedback from multiple sources and cosolidates insights to classify the reviews and comments into viable categories. </p>
+            <h1>
+                <font color="white">Start by uploading CSV</font>
+            </h1>
+
+            <font color="white">
+                <p>You are one step closer to begin the high order Sentimental analysis.</p>
+            </font>
             <!---<p>Pursuing high quality standards, my greatest efforts are focused on producing semantic, SEO-friendly, valid and clean code. In order to stay effective and relevant in this constantly evolving sphere I always try to be in touch with the latest news and recent approaches in programming.</p>-->
             <!---<ul class="list-inline">
                             <li><i class="fa fa-check"></i> 20k Domains Sold in 2017</li>
@@ -195,7 +200,7 @@
                                 <button type="submit" class="input-group-text" id="inputGroupFileAddon01">Upload</button>
                             </div>
                             <div class="custom-file">
-                                <input type="file" class="custom-file-input" id="inputGroupFile01" aria-describedby="inputGroupFileAddon01" name="file">
+                                <input type="file" class="custom-file-input" id="inputGroupFile01" aria-describedby="inputGroupFileAddon01" name="filey">
                                 <label class="custom-file-label" for="inputGroupFile01">Choose file. CSV files only</label>
                             </div>
 
@@ -207,7 +212,7 @@
     <hr>
 
 
-    <form action="/redirect" method="post">
+    <form action="/dashboard" method="post">
         <button type="submit" style="margin-left:auto;margin-right:auto;display:block;margin-top:2%;margin-bottom:0%">
                 Submit.
              </button>
@@ -239,8 +244,8 @@
                                 <div class="widget-title">
                                     <h3>About US</h3>
                                 </div>
-                                <p> Integer rutrum ligula eu dignissim laoreet. Pellentesque venenatis nibh sed tellus faucibus bibendum. Sed fermentum est vitae rhoncus molestie. Cum sociis natoque penatibus et magnis dis montes.</p>
-                                <p>Sed fermentum est vitae rhoncus molestie. Cum sociis natoque penatibus et magnis dis montes.</p>
+                                <p> Review Bay is a feedback management system which works on the principle of "Sentiment Analysis".</p>
+                                <p>"This web application is designed by team h3lloworld.py"</p>
                             </div>
                             <!-- end clearfix -->
                         </div>
@@ -257,8 +262,8 @@
                                 <ul class="footer-links">
                                     <li><a href="mailto:#">info@yoursite.com</a></li>
                                     <li><a href="#">www.yoursite.com</a></li>
-                                    <li>PO Box 16122 Collins Street West Victoria 8007 Australia</li>
-                                    <li>+61 3 8376 6284</li>
+                                    <li>Manipal Insitute of Technology, Manipal</li>
+                                    <li>+91 9766417402 </li>
                                 </ul>
                                 <!-- end links -->
                             </div>

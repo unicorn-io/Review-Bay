@@ -8,8 +8,8 @@
     <title>Sentimental Analysis</title>
     <meta content="Admin Dashboard" name="description" />
     <meta content="SIH" name="author" />
-    <link rel="shortcut icon" href="/images/favicon.ico">
-
+    <link rel="shortcut icon" href="./static/images/favicon.ico" type='image/x-icon' />
+    <link rel='icon' href='./static/images/favicon.ico' type='image/x-icon' />
     <!--Chartist Chart CSS -->
     <link rel="stylesheet" href="../static/plugins/chartist/css/chartist.min.css">
 
@@ -29,22 +29,30 @@
 
             <!-- LOGO -->
             <div class="topbar-left">
-                <a href="index.html" class="logo">
+                <a href="/dashboard" class="logo">
                     <span>
-                                <img src="./static/images/logo-light.png" alt="" height="18">
+                                <img src="./static/images/ReviewBay.png" alt="" height="200">
                             </span>
                     <i>
-                                <img src="./static/images/logo-sm.png" alt="" height="22">
+                                <img src="./static/images/ReviewBay.png" alt="" height="100">
                             </i>
                 </a>
             </div>
 
             <nav class="navbar-custom">
                 <ul class="navbar-right list-inline float-right mb-0">
+
                     <li class="dropdown notification-list list-inline-item d-none d-md-inline-block">
-                        <form  role="search" class="app-search">
+                        <form action='/searchQuery' method='POST' role="search" class="app-search">
                             <div class="form-group mb-0">
 
+<<<<<<< HEAD
+
+                                <input type="text" class="form-control" placeholder="Search.." name="search_query">
+
+                                <button type="submit"><i class="fa fa-search"></i></button>
+                        </form>
+=======
                                 <input type="text" class="form-control" placeholder="Search.." name ="query">
 
                                 <form autocomplete="off" action="enter the path here">
@@ -68,22 +76,31 @@
                             <a class="dropdown-item" href="#"><img src="./static/images/flags/french_flag.jpg" alt="" height="16" /><span> French </span></a>
                             <a class="dropdown-item" href="#"><img src="./static/images/flags/spain_flag.jpg" alt="" height="16" /><span> Spanish </span></a>
                             <a class="dropdown-item" href="#"><img src="./static/images/flags/russia_flag.jpg" alt="" height="16" /><span> Russian </span></a>
+>>>>>>> master
                         </div>
+                        </form>
                     </li>
+<<<<<<< HEAD
+
+
+=======
                 -->
+>>>>>>> master
                     <!-- full screen -->
                     <li class="dropdown notification-list list-inline-item d-none d-md-inline-block">
                         <a class="nav-link waves-effect" href="#" id="btn-fullscreen">
                             <i class="mdi mdi-fullscreen noti-icon"></i>
                         </a>
                     </li>
-
-                    <!-- notification -->
-                    <li class="dropdown notification-list list-inline-item">
-                        <a class="nav-link dropdown-toggle arrow-none waves-effect" data-toggle="dropdown" href="#" role="button" aria-haspopup="false" aria-expanded="false">
-                            <i class="mdi mdi-bell-outline noti-icon"></i>
-                            <span class="badge badge-pill badge-danger noti-icon-badge">3</span>
+                    <li class="dropdown notification-list list-inline-item d-none d-md-inline-block">
+                        <a class="nav-link waves-effect" href="/logout" id="btn-fullscreen">
+                           Logout
                         </a>
+<<<<<<< HEAD
+                    </li>
+
+
+=======
                         <div class="dropdown-menu dropdown-menu-right dropdown-menu-lg">
                             <!-- item-->
                             <h6 class="dropdown-item-text">
@@ -164,6 +181,7 @@
                             </div>
                         </div>
                     </li>
+>>>>>>> master
                 </ul>
             -->
             </nav>
@@ -179,23 +197,18 @@
                 <div id="sidebar-menu">
                     <!-- Left Menu Start -->
                     <ul class="metismenu" id="side-menu">
+                        <li class="menu-title"> </li>
+                        <li class="menu-title"> </li>
+                        <li class="menu-title"> </li>
+
                         <li class="menu-title">Main</li>
                         <li>
-                            <a href="index.html" class="waves-effect">
-                                <i class="ti-home"></i><span class="badge badge-primary badge-pill float-right">2</span> <span> TODO1 </span>
+                            <a href="/dashboard" class="waves-effect">
+                                <i class="ti-home"></i><span class="badge badge-primary badge-pill float-right">{{ total_not }}</span> <span>Total Analysis</span>
                             </a>
                         </li>
                         <li>
-                            <a href="calendar.html" class="waves-effect"><i class="ti-calendar"></i><span> TODO2 </span></a>
-                        </li>
-
-                        <li>
-                            <a href="javascript:void(0);" class="waves-effect"><i class="ti-email"></i><span> TODO3 <span class="float-right menu-arrow"><i class="mdi mdi-chevron-right"></i></span> </span></a>
-                            <ul class="submenu">
-                                <li><a href="email-inbox.html">Inbox</a></li>
-                                <li><a href="email-read.html">Email Read</a></li>
-                                <li><a href="email-compose.html">Email Compose</a></li>
-                            </ul>
+                            <a href="/dynamicView" class="waves-effect"><i class="ti-ruler"></i><span> Dynamic View Area </span></a>
                         </li>
 
                 </div>
@@ -225,6 +238,9 @@
                                 </ol>
 
                             </div>
+<<<<<<< HEAD
+
+=======
                             <!--
                             <div class="col-sm-6">
 
@@ -245,18 +261,28 @@
 
                             </div>
                         -->
+>>>>>>> master
                         </div>
                     </div>
                     <!-- end row -->
                     
                     <div class="row">
-                        <div class="col-xl-3 col-md-6">
+                        <div class="col-xl-3 col-md-5">
                             <div class="card mini-stat bg-primary text-white">
                                 <div class="card-body">
                                     <div class="mb-4">
                                         <div class="float-left mini-stat-img mr-4">
                                             <img src="./static/images/services-icon/01.png" alt="">
                                         </div>
+<<<<<<< HEAD
+                                        <h5 class="font-16 text-uppercase mt-0 text-white-50">TOTAL PRODUCTS</h5>
+                                        <h4 class="font-500">{{ num_products }}<i class="mdi mdi-arrow-up text-success ml-2"></i></h4>
+
+                                        <!--<div class="mini-stat-label bg-success">
+                                            <p class="mb-0">+ 12%</p>
+                                        </div>-->
+
+=======
                                         <h5 class="font-16 text-uppercase mt-0 text-white-50">Total Clients</h5>
                                        <!-- <h4 class="font-500">1,685 <i class="mdi mdi-arrow-up text-success ml-2"></i></h4>
                                        
@@ -264,13 +290,19 @@
                                             <p class="mb-0">+ 12%</p>
                                         </div>
                                     -->
+>>>>>>> master
                                     </div>
                                     <div class="pt-2">
                                         <div class="float-right">
-                                            <a href="#" class="text-white-50"><i class="mdi mdi-arrow-right h5"></i></a>
+                                            <a href="/downloadResults" class="text-white-50"><i class="mdi mdi-arrow-right h5"></i></a>
                                         </div>
+<<<<<<< HEAD
+
+                                        <p class="text-white-50 mb-0">Reviewed and Predicted</p>
+=======
                                     
                                         <p class="text-white-50 mb-0">Since last month</p>
+>>>>>>> master
                                     </div>
                                 </div>
                             </div>
@@ -282,6 +314,15 @@
                                         <div class="float-left mini-stat-img mr-4">
                                             <img src="./static/images/services-icon/02.png" alt="">
                                         </div>
+<<<<<<< HEAD
+                                        <h5 class="font-16 text-uppercase mt-0 text-white-50">GOOD PREDICTIONS</h5>
+                                        <h4 class="font-500">{{ num_good }} <i class="mdi mdi-arrow-up text-success ml-2"></i></h4>
+
+                                        <div class="mini-stat-label bg-success">
+                                            <p class="mb-0"> {{ good_percent }}%</p>
+                                        </div>
+
+=======
                                         <h5 class="font-16 text-uppercase mt-0 text-white-50">Average</h5>
                                         <!--
                                         <h4 class="font-500">52,368 <i class="mdi mdi-arrow-down text-danger ml-2"></i></h4>
@@ -289,13 +330,14 @@
                                             <p class="mb-0">- 28%</p>
                                         </div>
                                     -->
+>>>>>>> master
                                     </div>
                                     <div class="pt-2">
                                         <div class="float-right">
-                                            <a href="#" class="text-white-50"><i class="mdi mdi-arrow-right h5"></i></a>
+                                            <a href="/goodPreds" class="text-white-50"><i class="mdi mdi-arrow-right h5"></i></a>
                                         </div>
 
-                                        <p class="text-white-50 mb-0">Since last month</p>
+                                        <p class="text-white-50 mb-0">Precisely Predicted</p>
                                     </div>
                                 </div>
                             </div>
@@ -307,18 +349,18 @@
                                         <div class="float-left mini-stat-img mr-4">
                                             <img src="./static/images/services-icon/03.png" alt="">
                                         </div>
-                                        <h5 class="font-16 text-uppercase mt-0 text-white-50">Average Price</h5>
-                                        <h4 class="font-500">15.8 <i class="mdi mdi-arrow-up text-success ml-2"></i></h4>
-                                        <div class="mini-stat-label bg-info">
-                                            <p class="mb-0"> 00%</p>
+                                        <h5 class="font-16 text-uppercase mt-0 text-white-50">NEUTRAL PREDICTIONS</h5>
+                                        <h4 class="font-500">{{ num_neutral }} <i class="mdi mdi-arrow-up text-success ml-2"></i></h4>
+                                        <div class="mini-stat-label bg-success">
+                                            <p class="mb-0"> {{ neutral_percent }}%</p>
                                         </div>
                                     </div>
                                     <div class="pt-2">
                                         <div class="float-right">
-                                            <a href="#" class="text-white-50"><i class="mdi mdi-arrow-right h5"></i></a>
+                                            <a href="/neutralPreds" class="text-white-50"><i class="mdi mdi-arrow-right h5"></i></a>
                                         </div>
 
-                                        <p class="text-white-50 mb-0">Since last month</p>
+                                        <p class="text-white-50 mb-0">Precisely Predicted</p>
                                     </div>
                                 </div>
                             </div>
@@ -330,18 +372,18 @@
                                         <div class="float-left mini-stat-img mr-4">
                                             <img src="./static/images/services-icon/04.png" alt="">
                                         </div>
-                                        <h5 class="font-16 text-uppercase mt-0 text-white-50">Product Sold</h5>
-                                        <h4 class="font-500">2436 <i class="mdi mdi-arrow-up text-success ml-2"></i></h4>
-                                        <div class="mini-stat-label bg-warning">
-                                            <p class="mb-0">+ 84%</p>
+                                        <h5 class="font-16 text-uppercase mt-0 text-white-50">BAD PREDICTIONS</h5>
+                                        <h4 class="font-500">{{ num_bad }} <i class="mdi mdi-arrow-up text-success ml-2"></i></h4>
+                                        <div class="mini-stat-label bg-success">
+                                            <p class="mb-0">{{ bad_percent }}%</p>
                                         </div>
                                     </div>
                                     <div class="pt-2">
                                         <div class="float-right">
-                                            <a href="#" class="text-white-50"><i class="mdi mdi-arrow-right h5"></i></a>
+                                            <a href="/badPreds" class="text-white-50"><i class="mdi mdi-arrow-right h5"></i></a>
                                         </div>
 
-                                        <p class="text-white-50 mb-0">Since last month</p>
+                                        <p class="text-white-50 mb-0">Precisely Predicted</p>
                                     </div>
                                 </div>
                             </div>
@@ -351,6 +393,16 @@
 
                     <div class="row">
                         <div class="col-xl-15">
+<<<<<<< HEAD
+                            <div class="row-xl-20">
+                                <div class="card">
+                                    <div class="card-body">
+                                        <h4 class="mt-0 header-title mb-5">Analysis</h4>
+                                        <div class="graph1">
+                                            <img src="/plot.png" alt="my plot">
+                                            <p class="graph1">Enter graph1 over here</p>
+                                            <h3> some messg</h3>
+=======
                           <div class="row-xl-20">
                             <div class="card">
                                 <div class="card-body">
@@ -364,33 +416,42 @@
                                             <div>
                                                 <div id="chart-with-area" class="ct-chart earning ct-golden-section"></div>
                                             </div>
+>>>>>>> master
                                         </div>
-                                        <div class="col-lg-5">
-                                            <div class="row">
-                                                <div class="col-md-6">
-                                                    <div class="text-center">
-                                                        <p class="text-muted mb-4">This month</p>
-                                                        <h4>$34,252</h4>
-                                                        <p class="text-muted mb-5">It will be as simple as in fact it will be occidental.</p>
-                                                        <span class="peity-donut" data-peity='{ "fill": ["#02a499", "#f2f2f2"], "innerRadius": 28, "radius": 32 }' data-width="72" data-height="72">4/5</span>
-                                                    </div>
+
+                                        <div class="row">
+                                            <div class="col-lg-7">
+                                                <div>
+                                                    <div id="chart-with-area" class="ct-chart earning ct-golden-section"></div>
                                                 </div>
-                                                <div class="col-md-6">
-                                                    <div class="text-center">
-                                                        <p class="text-muted mb-4">Last month</p>
-                                                        <h4>$36,253</h4>
-                                                        <p class="text-muted mb-5">It will be as simple as in fact it will be occidental.</p>
-                                                        <span class="peity-donut" data-peity='{ "fill": ["#02a499", "#f2f2f2"], "innerRadius": 28, "radius": 32 }' data-width="72" data-height="72">3/5</span>
+                                            </div>
+                                            <div class="col-lg-5">
+                                                <div class="row">
+                                                    <div class="col-md-6">
+                                                        <div class="text-center">
+
+                                                        </div>
+
+                                                    </div>
+
+                                                    <div class="col-md-6">
+                                                        <div class="text-center">
+
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
+                                        <!-- end row -->
                                     </div>
-                                    <!-- end row -->
                                 </div>
+                                <!-- end card -->
                             </div>
+<<<<<<< HEAD
+=======
                             <!-- end card -->
                           </div>    
+>>>>>>> master
                         </div>
 
                         <div class="col-xl-3">
@@ -494,43 +555,32 @@
                                 <div class="card-body">
                                     <h4 class="mt-0 header-title mb-4">Activity</h4>
                                     <ol class="activity-feed">
-                                        <li class="feed-item">
-                                            <div class="feed-item-list">
-                                                <span class="date">Jan 22</span>
-                                                <span class="activity-text">Responded to need “Volunteer Activities”</span>
-                                            </div>
-                                        </li>
-                                        <li class="feed-item">
-                                            <div class="feed-item-list">
-                                                <span class="date">Jan 20</span>
-                                                <span class="activity-text">At vero eos et accusamus et iusto odio dignissimos ducimus qui deleniti atque...<a href="#" class="text-success">Read more</a></span>
-                                            </div>
-                                        </li>
-                                        <li class="feed-item">
-                                            <div class="feed-item-list">
-                                                <span class="date">Jan 19</span>
-                                                <span class="activity-text">Joined the group “Boardsmanship Forum”</span>
-                                            </div>
-                                        </li>
-                                        <li class="feed-item">
-                                            <div class="feed-item-list">
-                                                <span class="date">Jan 17</span>
-                                                <span class="activity-text">Responded to need “In-Kind Opportunity”</span>
-                                            </div>
-                                        </li>
-                                        <li class="feed-item">
-                                            <div class="feed-item-list">
-                                                <span class="date">Jan 16</span>
-                                                <span class="activity-text">Sed ut perspiciatis unde omnis iste natus error sit rem.</span>
-                                            </div>
-                                        </li>
+
                                     </ol>
+                                    <!--
                                     <div class="text-center">
                                         <a href="#" class="btn btn-primary">Load More</a>
                                     </div>
+                                -->
                                 </div>
                             </div>
                         </div>
+<<<<<<< HEAD
+
+                    </div>
+                    <div class="col-md-16">
+                        <div class="card bg-primary">
+                            <div class="card-body">
+                                <div class="text-center text-white py-4">
+                                    <h5 class="mt-0 mb-4 text-white-50 font-16">Top Product Sale</h5>
+                                    <h1>1452</h1>
+                                    <p>Computer</p>
+                                    <p class="text-white-50 mb-0">At solmen va esser necessi far uniform myth... <a href="#" class="text-white">View more</a></p>
+                                </div>
+                            </div>
+                        </div>
+
+=======
                         <!--
                         <div class="col-xl-5">
                             <div class="row">
@@ -779,23 +829,39 @@
                             </div>
                         -->
                         </div>
+>>>>>>> master
                     </div>
-                    <!-- end row -->
                 </div>
-                <!-- container-fluid -->
+
 
             </div>
-            <!-- content -->
+        </div>
+        <!-- end row -->
 
+<<<<<<< HEAD
+    </div>
+    </div>
+    <!-- end row -->
+    </div>
+    <!-- container-fluid -->
+=======
             <footer class="footer">
                 © 2019 Review Bay <span class="d-none d-sm-inline-block"> - Crafted with <i class="mdi mdi-heart text-danger"></i> at M.I.T</span>.
             </footer>
+>>>>>>> master
 
-        </div>
+    </div>
+    <!-- content -->
 
-        <!-- ============================================================== -->
-        <!-- End Right content here -->
-        <!-- ============================================================== -->
+    <footer class="footer">
+        © 2019 Review Bay <span class="d-none d-sm-inline-block"> - Crafted with <i class="mdi mdi-heart text-danger"></i> at M.I.T</span>.
+    </footer>
+
+    </div>
+
+    <!-- ============================================================== -->
+    <!-- End Right content here -->
+    <!-- ============================================================== -->
 
     </div>
     <!-- END wrapper -->
