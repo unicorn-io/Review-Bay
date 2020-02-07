@@ -3,8 +3,8 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 def Mail(email, name):
 
-    gmail_user = 'visheshsciensism@gmail.com'
-    gmail_password = 'ohyeah!!!!'
+    gmail_user = 'xxxxx@gmail.com'
+    gmail_password = 'xxxxx'
     msg = MIMEMultipart()
     msg['From'] = gmail_user
     msg['To'] = email

@@ -14,6 +14,25 @@ import random
 from matplotlib.backends.backend_agg import FigureCanvasAgg as FigureCanvas
 from matplotlib.figure import Figure
 #from .sent_model import gen_file
+import paralleldots
+import json
+from chatterbot import ChatBot
+from chatterbot.trainers import ChatterBotCorpusTrainer, ListTrainer
+import os
+
+paralleldots.set_api_key('gCBLz1QNHlJX2pH0PGqFgZORkD3WK9tDALgKQcSXN2k')
+
+def remove_hyphens(statement):
+    statement.text = statement.text.replace('-', '')
+    return statement
+
+bot = ChatBot("Chatterbot", storage_adapter="chatterbot.storage.SQLStorageAdapter")
+trainer = ChatterBotCorpusTrainer(bot)
+trainer.train("chatterbot.corpus.english")
+trainer.train("chatterbot.corpus.hindi")
+    
+
+
 
 main = Blueprint('main', __name__)
 
@@ -147,3 +166,18 @@ def create_figure():
     ys = [random.randint(1, 50) for x in xs]
     axis.plot(xs, ys)
     return fig
+
+@main.route("/predict", methods=['GET','POST'])
+def sample_predict():
+    txt = request.args.get('text')
+    print(txt)
+    text = []
+    text.append(txt)
+    response=paralleldots.batch_sentiment(text)
+    print(response)
+    return render_template('index.html', neg_p=response['sentiment'][0]['negative'], pos_p=response['sentiment'][0]['positive'], neu_p=response['sentiment'][0]['neutral'])
+
+@main.route("/get")
+def get_bot_response():
+    userText = request.args.get('msg')
+    return str(bot.get_response(userText))

@@ -727,7 +727,7 @@ a img.aligncenter {
 }
 
 .box-slider .carousel-control-prev {
-    background: #9dc15b;
+    background: #000000;
     position: absolute;
     left: 0px;
     font-size: 38px;
@@ -739,7 +739,7 @@ a img.aligncenter {
 }
 
 .box-slider .carousel-control-next {
-    background: #9dc15b;
+    background: #000000;
     position: absolute;
     right: 0px;
     font-size: 38px;
@@ -2291,6 +2291,7 @@ hr.invis1 {
 .bs-searchbox .form-control {
     margin-bottom: 0;
     width: 100%;
+    font-color:#000000;
 }
 
 select.bs-select-hidden,
@@ -2335,7 +2336,7 @@ select.mobile-device {
     margin-bottom: 30px;
     border: 1px solid #ebebeb;
     box-sizing: border-box;
-    color: #bcbcbc;
+    color: #000000;
     font-size: 16px;
     outline: 0 none;
     padding: 10px 25px;
@@ -2352,16 +2353,16 @@ select.mobile-device {
 }
 
 .contact_form .form-control::-webkit-input-placeholder {
-    color: #bcbcbc;
+    color: #000000;
 }
 
 .contact_form .form-control::-moz-placeholder {
     opacity: 1;
-    color: #bcbcbc;
+    color: #000000;
 }
 
 .contact_form .form-control::-ms-input-placeholder {
-    color: #bcbcbc;
+    color: #000000;
 }
 
 #contact {
@@ -3124,7 +3125,7 @@ span.m_1 {
     margin-bottom: 30px;
     border: 1px solid #ebebeb;
     box-sizing: border-box;
-    color: #bcbcbc;
+    color: #000000;
     font-size: 16px;
     outline: 0 none;
     padding: 10px 25px;

@@ -32,11 +32,67 @@
 <!-- Modernizer for Portfolio -->
 <script src="./static/js/modernizer.js">
 </script>
+
+<link rel="stylesheet" type="text/css" href="./static/botStatics/style.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
 </head>
 
 <body class="host_version">
 
     <!-- Modal -->
+    <div class="modal fade" id="logon" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header tit-up">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                    <h4 class="modal-title">Helper Bot</h4>
+                </div>
+                <div class="modal-body customer-box">
+                    <div>
+                        <div id="chatbox">
+                            <p class="botText"><span>Hi! I'm Chatterbot.</span></p>
+                        </div>
+                        <div id="userInput">
+                            <input id="textInput" type="text" name="msg" placeholder="Message">
+                            <input id="buttonInput" type="submit" value="Send">
+                        </div>
+                        <script>
+                            function getBotResponse() {
+                                var rawText = $("#textInput").val();
+                                var userHtml = '<p class="userText"><span>' + rawText + '</span></p>';
+                                $("#textInput").val("");
+                                $("#chatbox").append(userHtml);
+                                document.getElementById('userInput').scrollIntoView({
+                                    block: 'start',
+                                    behavior: 'smooth'
+                                });
+                                $.get("/get", {
+                                    msg: rawText
+                                }).done(function(data) {
+                                    var botHtml = '<p class="botText"><span>' + data + '</span></p>';
+                                    $("#chatbox").append(botHtml);
+                                    document.getElementById('userInput').scrollIntoView({
+                                        block: 'start',
+                                        behavior: 'smooth'
+                                    });
+                                });
+                            }
+                            $("#textInput").keypress(function(e) {
+                                if (e.which == 13) {
+                                    getBotResponse();
+                                }
+                            });
+                            $("#buttonInput").click(function() {
+                                getBotResponse();
+                            })
+                        </script>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <div class="modal fade" id="login" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
         <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
             <div class="modal-content">
@@ -156,6 +212,9 @@
                     <ul class="nav navbar-nav navbar-right">
                         <li><a class="hover-btn-new log" href="#" data-toggle="modal" data-target="#login"><span>Customer Login</span></a></li>
                     </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a class="hover-btn-new log" href="#" data-toggle="modal" data-target="#logon"><span>Chat Bot</span></a></li>
+                    </ul>
                 </div>
             </div>
         </nav>
@@ -177,8 +236,8 @@
                             <div class="row">
                                 <div class="col-md-12 col-sm-12 text-right">
                                     <div class="big-tagline">
-                                        <h2><strong>Feedback Management</strong> System</h2>
-                                        <p class="lead">Review Bay is a customer review management platform that uses sentimental analysis to provide the insights for your data.</p>
+                                        <h2><strong>Review</strong> BAY</h2>
+                                        <p class="lead">Review Bay is a customer review management platform that uses sentimental analysis to provide the insights for your data. A single platform for managing all your feedbacks.</p>
 
                                     </div>
                                 </div>
@@ -253,8 +312,28 @@
                 <font color="white">Get Started</font>
             </h1>
             <p>
-                <font color="white">Review Bay is a feedback management system gathers customer feedback from multiple sources and cosolidates insights to classify the reviews and comments into viable categories.</font>
+                <font color="white"><strong>Wanna check how it works?? Give a try, enter a review down here..</strong></font>
             </p>
+            <form action='/predict' method='get'>
+                Sample Text:
+                <textarea id="confirmationText" class="text" cols="80" rows="2" name="text"></textarea>
+                <h1> </h1>
+                <button type="submit">Predict</button>
+            </form>
+            <div class='col -sm 2 active'>
+                <h1> </h1>
+                <h1> </h1>
+                <img src="/static/images/negative.png">
+
+                <font color="white" face="verdana">{{ neg_p }}<strong> negative</strong> </font>
+
+                <img src="static/images/positive.png">
+                <font color="white" face="verdana">{{ pos_p }}<strong> positive<strong></font>
+                <img src="static/images/neutral.png">
+                <font color="white" face="verdana">{{ neu_p }} <strong>neutral</strong></font>
+
+            </div>
+
             <!---<p>Pursuing high quality standards, my greatest efforts are focused on producing semantic, SEO-friendly, valid and clean code. In order to stay effective and relevant in this constantly evolving sphere I always try to be in touch with the latest news and recent approaches in programming.</p>-->
             <!---<ul class="list-inline">
                             <li><i class="fa fa-check"></i> 20k Domains Sold in 2017</li>
@@ -262,6 +341,10 @@
                         </ul>
                          end list -->
             <!---<a href="#" class="hover-btn-new"><span>Hosting Packages</span></a>-->
+            <h1> </h1>
+            <h1> </h1>
+            <h1> </h1>
+            <h1> </h1>
         </div>
     </div>
 
@@ -272,42 +355,6 @@
     <!-- end container -->
     </div>
     <!-- end section -->
-
-
-
-
-
-    <!-- <form action="/fileUploaded" method="post" enctype="multipart/form-data">
-        <div id="domain" class="section wb">
-            <div class="container">
-                <div class="row text-center">
-                    <div class="col-lg-12">
-                        <div class="input-group">
-
-                            <div class="input-group-prepend">
-                                <button type="submit" class="input-group-text" id="inputGroupFileAddon01">Upload</button>
-                            </div>
-                            <div class="custom-file">
-                                <input type="file" class="custom-file-input" id="inputGroupFile01" aria-describedby="inputGroupFileAddon01" name="file">
-                                <label class="custom-file-label" for="inputGroupFile01">Choose file. CSV files only</label>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-    </form>
-    <hr>
-
-
-    <form action="/redirect" method="post">
-        <button type="submit" style="margin-left:auto;margin-right:auto;display:block;margin-top:2%;margin-bottom:0%">
-                Submit.
-             </button>
-    </form> -->
-    <!---      <button type="submit" id="submitbutton"> Submit </button>-->
-
-
 
     </form>
     </div>

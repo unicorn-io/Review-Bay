@@ -154,76 +154,53 @@
                                         <h4 class="mt-0 header-title mb-5">Analysis</h4>
                                         <div class="graph1">
                                             <p class="graph1">Number Reviews: {{ len_reviews }}</p><br>
-                                            <p class="graph1">Positive: {{ pos }}%</p><br>
-                                            <p class="graph1">Negative: {{ neg }}%</p><br>
-                                            <p class="graph1">Neutral: {{ neu }}%</p>
+
                                         </div>
 
-                                        <div class="row">
-                                            <div class="col-lg-7">
-                                                <div>
-                                                    <div id="chart-with-area" class="ct-chart earning ct-golden-section"></div>
-                                                </div>
-                                            </div>
-                                            <div class="col-lg-5">
-                                                <div class="row">
-                                                    <div class="col-md-6">
-                                                        <div class="text-center">
 
-                                                        </div>
-
-                                                    </div>
-
-                                                    <div class="col-md-6">
-                                                        <div class="text-center">
-
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- end row -->
                                     </div>
+                                    <!-- end row -->
                                 </div>
-                                <!-- end card -->
                             </div>
+                            <!-- end card -->
                         </div>
-
-
-                        <div class='row'>
-                            <div class="table100 ver2 m-b-110">
-                                <table data-vertable="ver2">
-                                    <thead>
-                                        <tr class="row100 head">
-                                            <th class="column100 column1" data-column="column1">Product ID</th>
-                                            <th class="column100 column2" data-column="column2">Product Name</th>
-                                            <th class="column100 column3" data-column="column3">Review Text</th>
-                                            <th class="column100 column4" data-column="column4">Good Prediction</th>
-                                            <th class="column100 column5" data-column="column5">Bad Prediction</th>
-                                            <th class="column100 column6" data-column="column6">Neutral Prediction</th>
-
-
-
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-
-
-                                        {{ table_data|safe }}
-
-                                    </tbody>
-                                </table>
-                            </div>
-                        </div>
-
-
                     </div>
-                </div>
-                <!-- end row -->
 
+
+                    <div class='row'>
+                        <div class="table100 ver2 m-b-110">
+                            <table data-vertable="ver2">
+                                <thead>
+                                    <tr class="row100 head">
+                                        <th class="column100 column1" data-column="column1">Product ID</th>
+                                        <th class="column100 column2" data-column="column2">Product Name</th>
+                                        <th class="column100 column3" data-column="column3">Review Text</th>
+                                        <th class="column100 column4" data-column="column4">Good Prediction</th>
+                                        <th class="column100 column5" data-column="column5">Bad Prediction</th>
+                                        <th class="column100 column6" data-column="column6">Neutral Prediction</th>
+
+
+
+                                    </tr>
+                                </thead>
+                                <tbody>
+
+
+                                    {{ table_data|safe }}
+
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+
+                </div>
             </div>
+            <!-- end row -->
+
         </div>
-        <!-- end row -->
+    </div>
+    <!-- end row -->
     </div>
     <!-- container-fluid -->
 
