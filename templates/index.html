@@ -17,6 +17,8 @@
 <!-- Site Icons -->
 <link rel="shortcut icon" href="./static/images/favicon.ico" type="image/x-icon" />
 <link rel="apple-touch-icon" href="./static/images/apple-touch-icon.png">
+<link rel="stylesheet" type="text/css" href="http://www.prepbootstrap.com/Content/shieldui-lite/dist/css/light/all.min.css" />
+<script type="text/javascript" src="http://www.prepbootstrap.com/Content/shieldui-lite/dist/js/shieldui-lite-all.min.js"></script>
 
 <!-- Bootstrap CSS -->
 <link rel="stylesheet" href="./static/css/bootstrap.min.css">
@@ -32,11 +34,79 @@
 <!-- Modernizer for Portfolio -->
 <script src="./static/js/modernizer.js">
 </script>
+
+<link rel="stylesheet" type="text/css" href="./static/botStatics/style.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<style>
+    textarea {
+        width: 100%;
+        height: 150px;
+        padding: 12px 20px;
+        box-sizing: border-box;
+        border: 2px solid #ccc;
+        border-radius: 4px;
+        background-color: #f8f8f8;
+        font-size: 16px;
+        resize: none;
+    }
+</style>
 </head>
 
 <body class="host_version">
 
     <!-- Modal -->
+    <div class="modal fade" id="logon" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header tit-up">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                    <h4 class="modal-title">Helper Bot</h4>
+                </div>
+                <div class="modal-body customer-box">
+                    <div>
+                        <div id="chatbox">
+                            <p class="botText"><span>Hi! I'm Chatterbot.</span></p>
+                        </div>
+                        <div id="userInput">
+                            <input id="textInput" type="text" name="msg" placeholder="Message">
+                            <input id="buttonInput" type="submit" value="Send">
+                        </div>
+                        <script>
+                            function getBotResponse() {
+                                var rawText = $("#textInput").val();
+                                var userHtml = '<p class="userText"><span>' + rawText + '</span></p>';
+                                $("#textInput").val("");
+                                $("#chatbox").append(userHtml);
+                                document.getElementById('userInput').scrollIntoView({
+                                    block: 'start',
+                                    behavior: 'smooth'
+                                });
+                                $.get("/get", {
+                                    msg: rawText
+                                }).done(function(data) {
+                                    var botHtml = '<p class="botText"><span>' + data + '</span></p>';
+                                    $("#chatbox").append(botHtml);
+                                    document.getElementById('userInput').scrollIntoView({
+                                        block: 'start',
+                                        behavior: 'smooth'
+                                    });
+                                });
+                            }
+                            $("#textInput").keypress(function(e) {
+                                if (e.which == 13) {
+                                    getBotResponse();
+                                }
+                            });
+                            $("#buttonInput").click(function() {
+                                getBotResponse();
+                            })
+                        </script>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <div class="modal fade" id="login" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
         <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
             <div class="modal-content">
@@ -151,10 +221,15 @@
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item active"><a class="nav-link" href="/">Home</a></li>
                         <li class="nav-item"><a class="nav-link" href="/about">About Us</a></li>
+                        <li class="nav-item">
+                            <a class='nav-link' href='/pricing'>Pricing</a> </li>
 
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
                         <li><a class="hover-btn-new log" href="#" data-toggle="modal" data-target="#login"><span>Customer Login</span></a></li>
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a class="hover-btn-new log" href="#" data-toggle="modal" data-target="#logon"><span>Chat Bot</span></a></li>
                     </ul>
                 </div>
             </div>
@@ -177,8 +252,8 @@
                             <div class="row">
                                 <div class="col-md-12 col-sm-12 text-right">
                                     <div class="big-tagline">
-                                        <h2><strong>Feedback Management</strong> System</h2>
-                                        <p class="lead">Review Bay is a customer review management platform that uses sentimental analysis to provide the insights for your data.</p>
+                                        <h2><strong>Review</strong> BAY</h2>
+                                        <p class="lead">Review Bay is a customer review management platform that uses sentimental analysis to provide the insights for your data. A single platform for managing all your feedbacks.</p>
 
                                     </div>
                                 </div>
@@ -253,15 +328,28 @@
                 <font color="white">Get Started</font>
             </h1>
             <p>
-                <font color="white">Review Bay is a feedback management system gathers customer feedback from multiple sources and cosolidates insights to classify the reviews and comments into viable categories.</font>
+                <font color="white"><strong>Wanna check how it works?? Give a try, enter a review down here..</strong></font>
             </p>
-            <!---<p>Pursuing high quality standards, my greatest efforts are focused on producing semantic, SEO-friendly, valid and clean code. In order to stay effective and relevant in this constantly evolving sphere I always try to be in touch with the latest news and recent approaches in programming.</p>-->
-            <!---<ul class="list-inline">
-                            <li><i class="fa fa-check"></i> 20k Domains Sold in 2017</li>
-                            <li><i class="fa fa-check"></i> 4k Website Created</li>
-                        </ul>
-                         end list -->
-            <!---<a href="#" class="hover-btn-new"><span>Hosting Packages</span></a>-->
+            <form action='/predict' method='get'>
+                Sample Text:
+                <textarea id="confirmationText" class="text" cols="80" rows="2" name="text"></textarea>
+                <h1> </h1>
+                <button type="submit">Predict</button>
+            </form>
+
+            <div class='col -sm 2 active'>
+                <h1> </h1>
+                <h1> </h1>
+                <font color="white" face="verdana"> <span style="font-size:30px">&#128542;</span> {{ neg_p }}<strong> negative</strong> </font>
+                <font color="white" face="verdana"> <span style="font-size:30px">&#128512;</span> {{ pos_p }}<strong> positive<strong></font>
+                <font color="white" face="verdana"> <span style="font-size:30px">&#128529;</span> {{ neu_p }} <strong>neutral</strong></font>
+
+            </div>
+
+            <h1> </h1>
+            <h1> </h1>
+            <h1> </h1>
+            <h1> </h1>
         </div>
     </div>
 
@@ -272,43 +360,6 @@
     <!-- end container -->
     </div>
     <!-- end section -->
-
-
-
-
-
-    <!-- <form action="/fileUploaded" method="post" enctype="multipart/form-data">
-        <div id="domain" class="section wb">
-            <div class="container">
-                <div class="row text-center">
-                    <div class="col-lg-12">
-                        <div class="input-group">
-
-                            <div class="input-group-prepend">
-                                <button type="submit" class="input-group-text" id="inputGroupFileAddon01">Upload</button>
-                            </div>
-                            <div class="custom-file">
-                                <input type="file" class="custom-file-input" id="inputGroupFile01" aria-describedby="inputGroupFileAddon01" name="file">
-                                <label class="custom-file-label" for="inputGroupFile01">Choose .csv type files only</label>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-    </form>
-    <hr>
-
-
-    <form action="/redirect" method="post">
-        <button type="submit" style="margin-left:auto;margin-right:auto;display:block;margin-top:2%;margin-bottom:0%">
-                Submit.
-             </button>
-    </form> -->
-    <!---      <button type="submit" id="submitbutton"> Submit </button>-->
-
-
-
     </form>
     </div>
 
@@ -348,18 +399,11 @@
                                 </div>
 
                                 <ul class="footer-links">
-<<<<<<< HEAD
-                                    <li><a href="mailto:#">info@yoursite.com</a></li>
-                                    <li><a href="#">www.yoursite.com</a></li>
-                                    <li>Manipal Insitute of Technology, Manipal</li>
-                                    <li>+91 9766417402</li>
-=======
                                     <li><a href="mailto:#">reviewbay.contact@gmail.com</a></li>
                                     <li><a href="#">www.reviewbay.com</a></li>
                                     <li>Block-15,M.I.T Hostels,Manipal,India.</li>
                                     <li>PIN: 576104</li>
-                                    
->>>>>>> master
+
                                 </ul>
                                 <!-- end links -->
                             </div>
@@ -407,6 +451,65 @@
                     mode: 'horizontal',
                     verticalStartPosition: 'left',
                     visibleItems: 4
+                });
+            </script>
+            <link rel="stylesheet" type="text/css" href="http://www.prepbootstrap.com/Content/shieldui-lite/dist/css/light/all.min.css" />
+            <script type="text/javascript" src="http://www.prepbootstrap.com/Content/shieldui-lite/dist/js/shieldui-lite-all.min.js"></script>
+
+            <script type="text/javascript">
+                jQuery(function($) {
+                    var data1 = [12, 3, 4, 2];
+                    var data2 = [3, 9, 12, 14];
+
+                    $(function() {
+                        $("#chart1").shieldChart({
+                            exportOptions: {
+                                image: false,
+                                print: false
+                            },
+                            axisY: {
+                                title: {
+                                    text: "Break-Down for selected quarter"
+                                }
+                            },
+                            dataSeries: [{
+                                seriesType: "pie",
+                                enablePointSelection: true,
+                                data: data1
+                            }]
+                        });
+
+                        $("#chart2").shieldChart({
+                            exportOptions: {
+                                image: false,
+                                print: false
+                            },
+                            seriesSettings: {
+                                pie: {
+                                    enablePointSelection: true,
+                                    borderColor: 'black',
+                                    borderWidth: 3,
+                                    dataPointText: {
+                                        style: {
+                                            fontWeight: 'bold'
+                                        }
+                                    }
+                                }
+                            },
+                            axisY: {
+                                title: {
+                                    text: "Break-Down for selected quarter"
+                                }
+                            },
+                            dataSeries: [{
+                                seriesType: "pie",
+                                data: data2
+                            }]
+                        });
+
+
+                    });
+
                 });
             </script>
 </body>

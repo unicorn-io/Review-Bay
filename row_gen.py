@@ -8,6 +8,10 @@ data = data.values.tolist()
 def get_list():
     return data
 
+def yes_no(a):
+    if (a == '1'): return 'yes'
+    else: return 'no'
+
 def generate_table(listo):
     with open('./SIH/table.txt', 'w') as file:
        
@@ -23,7 +27,7 @@ def generate_table(listo):
                     {}
                 </td>
             </tr>
-            '''.format(listo[x][0], listo[x][1], listo[x][2], listo[x][3], listo[x][4], listo[x][5])
+            '''.format(listo[x][0], listo[x][1], listo[x][2], yes_no(listo[x][3]), yes_no(listo[x][4]), yes_no(listo[x][5]))
             file.write(all_string)
             file.write('\n')
         

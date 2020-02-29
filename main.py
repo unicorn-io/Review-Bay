@@ -14,6 +14,25 @@ import random
 from matplotlib.backends.backend_agg import FigureCanvasAgg as FigureCanvas
 from matplotlib.figure import Figure
 #from .sent_model import gen_file
+import paralleldots
+import json
+from chatterbot import ChatBot
+from chatterbot.trainers import ChatterBotCorpusTrainer, ListTrainer
+import os
+
+paralleldots.set_api_key('gCBLz1QNHlJX2pH0PGqFgZORkD3WK9tDALgKQcSXN2k')
+
+def remove_hyphens(statement):
+    statement.text = statement.text.replace('-', '')
+    return statement
+
+bot = ChatBot("Chatterbot", storage_adapter="chatterbot.storage.SQLStorageAdapter")
+trainer = ChatterBotCorpusTrainer(bot)
+trainer.train("chatterbot.corpus.english")
+trainer.train("chatterbot.corpus.hindi")
+    
+
+
 
 main = Blueprint('main', __name__)
 
@@ -117,8 +136,10 @@ def neutral_csv():
 def query_csv():
     query = request.form['search_query'].split(" ")
     print(query)
-    data = pd.read_csv('./SIH/a.csv')
-    lis= data.values.tolist()
+    #data = pd.read_csv('./SIH/a.csv')
+    #lis= data.values.tolist()
+    #print(data.head())
+    lis = get_list()
     listo = []
     for l in lis:
         try:
@@ -147,3 +168,71 @@ def create_figure():
     ys = [random.randint(1, 50) for x in xs]
     axis.plot(xs, ys)
     return fig
+
+@main.route("/predict", methods=['GET','POST'])
+def sample_predict():
+    txt = request.args.get('text')
+    print(txt)
+    text = []
+    text.append(txt)
+    response=paralleldots.batch_sentiment(text)
+    print(response)
+    return render_template('index.html', neg_p=response['sentiment'][0]['negative'], pos_p=response['sentiment'][0]['positive'], neu_p=response['sentiment'][0]['neutral'])
+
+@main.route("/get")
+def get_bot_response():
+    userText = request.args.get('msg')
+    return str(bot.get_response(userText))
+
+@main.route("/pricing")
+def pricing_page():
+    return render_template('price_page.html')
+
+@main.route('/purchase')
+def contact():
+    return render_template('contact.html')
+
+
+@main.route('/handlepayment', methods = ['POST'])
+def handle_payment():
+    data = request.form
+    response_dict = {}
+    for i in data.keys():
+        response_dict[i] = data[i]
+        if i == 'CHECKSUMHASH':
+            checksum = data[i]
+    
+    verify = verify_checksum(response_dict, 'wEits@QnXrF9QGJQ', checksum)
+    if verify:
+        if response_dict['RESPCODE'] == '01':
+            Mail(email, name, response_dict)
+            print('order successful')
+        else:
+            print('order was not successful because' + response_dict['RESPMSG'])
+    return render_template('paymentstatus.html', response = response_dict)
+
+@main.route('/payment', methods = ['POST', 'GET'])
+def pay():
+    first_name = request.args.get('fname')
+    last_name = request.args.get('lname')
+    name = first_name + " " + last_name
+    email =  request.args.get('email')
+    reg_no = request.args.get('rnum')
+    college_name = request.args.get('clgname')
+    phone_number = request.args.get('pnum')
+    address = request.args.get('addr')
+    
+    param_dict = {
+            'MID':'KcuTvw62377761596842',
+            'ORDER_ID': str(int(phone_number) + 123456789),
+            'TXN_AMOUNT':'180',
+            'CUST_ID':'acfff@paytm.com',
+            'INDUSTRY_TYPE_ID':'Retail',
+            'WEBSITE':'wWEBSTAGING',
+            'CHANNEL_ID':'WEB',
+            'CALLBACK_URL':'http://127.0.0.1:5000/handlepayment',
+        }
+    checksumq = generate_checksum(param_dict, 'wEits@QnXrF9QGJQ')
+  
+    param_dict.update({'CHECKSUMHASH': checksumq})
+    return render_template('paytm.html', param_dict = param_dict)

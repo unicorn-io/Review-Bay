@@ -124,7 +124,7 @@ iframe {
 [ Table ]*/
 
 table {
-    width: 130%;
+    width: 0%;
     background-color: #fff;
 }
 
@@ -135,7 +135,7 @@ td {
 }
 
 .column100 {
-    width: 130px;
+    width: 100px;
     padding-left: 25px;
 }
 
@@ -163,7 +163,6 @@ td {
 }
 
 .table100.ver2 td {
-    overflow: scroll;
     font-family: Montserrat-Regular;
     font-size: 14px;
     color: #383737;
@@ -171,7 +170,6 @@ td {
 }
 
 .table100.ver2 th {
-    overflow: scroll;
     font-family: Montserrat-Medium;
     font-size: 14px;
     color: #fff;

@@ -30,6 +30,3 @@ def Mail(email, name):
     server.close()
 
     print('Email sent!')
-
-
-Mail('tayalvishesh83@gmail.com', 'Vishesh Tayal')
