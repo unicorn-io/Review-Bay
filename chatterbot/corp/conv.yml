@@ -1,0 +1,174 @@
+Categories:
+- conv 
+
+conversations:
+-- greeting
+ - how are you?
+-- greeting
+ - Hello!
+-- greeting
+ - how is your day?
+-- greeting
+ - good day
+-- greeting
+ - how is it going today?
+-- goodbye
+ - have a nice day
+-- goodbye
+ - see you later
+-- goodbye
+ - have a nice day
+-- goodbye
+ - talk to you soon
+-- goodbye
+ - Bye!
+-- food
+ - make me a sandwich
+-- food
+ - can you make a sandwich?
+-- food
+ - having a sandwich today?
+-- food
+ - what's for lunch
+-- food
+ - Today, I want to eat a pizza
+-- place
+ - Where do you eat?
+-- place
+ - I want to eat in the restaurant
+-- place
+ - I live in Switzerland
+-- place
+ - I am travelling to Denamark
+-- name a cat
+ - lolcat
+-- motorbike
+ - KTM is my favorite brand
+-- motorbike
+ - Motorcycle design varies greatly to suit a range of different purposes.
+   long distance travel, commuting, cruising, sport including racing, and off-road
+   riding.
+-- motorbike
+ - Motorcycling is riding a motorcycle and related social activity such
+   as joining a motorcycle club and attending motorcycle rallies.
+-- motorbike
+   Of all the motorcycles in the world, 58% are in the Asia-Pacific and Southern
+   and Eastern Asia regions, excluding car-centric Japan.
+-- motorbike
+ - Street bikes include cruisers, sportbikes, scooters and mopeds, and many
+    other types. 
+-- motorbike
+ - Off-road motorcycles include many types designed for dirt-oriented racing
+    es such as motocross and are not street legal in most areas.
+-- motorbike
+ -  I prefer Italian bike such as Ducati
+-- motorbike
+ - I love Ducati
+-- motorbike
+ - The Panigale is a nice ride!
+-- motorbike
+   How do you ride?
+-- motorbike
+ - How do you drive?
+-- motorbike
+ - What is your favorite bike?
+-- motorbike
+ -  Mine is a SMC 690.
+-- motorbike
+ - I have a bike
+-- motorbike
+ - I would like to buy a two cylinder bike
+-- motorbike
+ - The 690smc is very fun
+-- motorbike
+ -  KTM is the best
+-- motorbike
+ -  There are two wheels on a motorbike
+-- engine
+ - Ducati has desmodromic valves
+-- engine
+ -  What is a piston?
+-- engine
+ - What are valves?
+-- engine
+ - Not so long ago GP Racing was done on two-stroke engines
+-- engine
+ - Two stroke engines are so old fashion
+-- engine
+ - KTM and Aprilia have V4 blocks
+-- engine
+ - What is  an exhaust system,
+-- engine
+ - Turbo charger are fashionable again,
+-- engine
+   How do you make a turbocharger?
+-- engine
+ - the valve being struck by the top of the rising piston.
+-- engine
+ - How do have more horse power
+-- engine
+ - In addition, camshafts, push-rods, and valve rockers can be eliminated
+    in a sleeve valve design.
+-- engine
+ - Many bikes have four cylinders, but that is also true for cars
+-- engine
+ - What is the the block on the Ducati Monster?
+-- engine
+ - Ferrari is a very expensive, but I love the sound of its engine
+-- greeting
+ - how are you?
+-- greeting
+ - Hello!
+-- greeting
+ - how is your day?
+-- greeting
+ - good day
+-- greeting
+ - how is it going today?
+-- goodbye
+ - have a nice day
+-- goodbye
+ - see you later
+-- goodbye
+ - have a nice day
+-- goodbye
+ - talk to you soon
+-- goodbye
+ - Bye!
+-- food
+   make me a sandwich
+-- food
+ - can you make a sandwich?
+-- food
+ - having a sandwich today?
+-- food
+ - what's for lunch
+-- food
+ - Today, I want to eat a pizza
+-- place
+ - Where do you eat?
+-- place
+ - I want to eat in the restaurant
+-- place
+ - I live in Switzerland
+-- place
+ - I am travelling to Denamark
+-- What to do
+ - If you are a new user,go to customer login and register,you will get a confirmation mail.
+-- Can't look at customer login
+ - It is on the upper right corner
+-- What is review bay?
+ - It is a platform which provides you feedback of millions of data in one go within seconds.It's absolutely free 
+-- Thank you
+ - Do you have any more questions?
+-- yes
+ - Yes please?
+-- no
+ - Thank you,have a good day!!
+-- What to do?
+ - If you are a new user,go to customer login and register,you will get a confirmation mail.
+-- What is the thing that i need to input?
+ - You will have to input a file(preferrably csv) of your feedback/review text data.
+-- How will the file be analysed?
+ - You will get an overview of the number and percentage of positive,negative and neutral reviews,moreover you will also get plots and trends about how they vary based on different parameters(present in your file)
+    

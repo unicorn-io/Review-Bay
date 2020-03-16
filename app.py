@@ -11,7 +11,9 @@ train_bot =ChatBot("Ravi",storage_adapter="chatterbot.storage.SQLStorageAdapter"
 trainer =ChatterBotCorpusTrainer(train_bot)
 trainer.train("chatterbot.corpus.english")
 trainer.train("chatterbot.corpus.hindi")
-trainer.train('./train.yml')
+trainer.train('train.yml')
+
+
 
 
 @app.route('/')
