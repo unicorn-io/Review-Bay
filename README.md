@@ -19,7 +19,7 @@ SIH is an university level hackathon organised by Govt. of India. Our team choos
 #### The authors for this project are :
 
 1. DhruvRaipure
-2. unicorn-io
+2. <a href="https://github.com/unicorn-io">unicorn-io</a>
 3. smritisingh26
 4. ShamanthNyk
 5. nimesh
