@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/unicorn-io/Review-Bay/blob/master/static/images/ReviewBay.png" width = 40%></p>
+<p align="center"><img src="https://github.com/unicorn-io/Review-Bay/blob/master/static/images/ReviewBay.png" width = 40%</p>
 
 ### Making an Sentiment-Analyzer for SIH-2020
 
@@ -26,3 +26,26 @@ SIH is an university level hackathon organised by Govt. of India. Our team choos
 6. sagnik-chatterjee
 
 #### Contributions are welcome , please refer to contributing.md for contributing to this project.  
+
+#### Running the web-app
+* Clone the repository
+* To run the app make sure the requirements are installed.
+```
+pip install -r requirements.txt
+```
+We will be relocating to the directory and exporting the flask app.
+```
+cd ../
+export FLASK_APP=Review-Bay  # GNU/LINUX
+set FLASK_APP=Review-Bay # Windows
+```
+Now that we are set for development uses or contributions we might suggest to run the app in development environment.
+```
+set FLASK_ENV=development # Windows
+export FLASK_ENV=development # GNU/LINUX
+```
+Finally we are all set to run this
+```
+flask run
+```
+The application can be accessed on your local host server.
